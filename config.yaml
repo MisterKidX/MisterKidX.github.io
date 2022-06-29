@@ -33,7 +33,7 @@ params:
   # GitHub repo URL of your site, will create a button in all blog post "improve this page", directing to the github page
   gitRepo: https://github.com/MisterKidX/MisterKidX.github.io
   # Default branch of your Git repo
-  gitBranch: main
+  gitBranch: source
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
