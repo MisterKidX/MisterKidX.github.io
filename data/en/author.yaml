@@ -1,0 +1,18 @@
+# some information about you
+name: "Dor Ben Dor"
+# nickname: "DBD"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/dor_pixelart.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "contact@dorbendor.com"
+  github: misterkidx
+  linkedin: dorbendor
+  # phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I am a Game Designer
+  - I am a Game Developer
+  - I am an Educator
