@@ -1,7 +1,7 @@
 
 # section information
 section:
-  name: Skills
+  name: Tools
   id: skills
   enable: true
   weight: 2
@@ -14,5 +14,29 @@ section:
 skills:
 - name: C#
   logo: /images/skills/csharp_logo.png
-  summary: "C# is a second language to me."
+  summary: "C# is a second language to me, and I believe it to be the most elegant programming language out there. I used it extensively in WPF and Console applciations, but now serves me regularly with the unity game engine."
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+- name: c++
+  logo: /images/skills/cpp_logo.png
+  summary: "I love c++ for game development because I'm not constrained by anything. Most of my expreince comes from writing c++ in unreal engine."
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+- name: git
+  logo: /images/skills/git_logo.png
+  summary: "Fluent with git workflows and various interfaces (sourcetree, gitbash, gitkraken etc.)."
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+- name: unreal engine
+  logo: /images/skills/unrealEngine_logo.png
+  summary: "Use Unreal for high end projects and level design."
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+- name: unity
+  logo: /images/skills/unity_logo.png
+  summary: "More than 5 years on the engine, hate it and love it."
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+- name: math
+  logo: /images/skills/pi_logo.png
+  summary: "I love math and I utilize it everywhere I go."
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+- name: Misc.
+  logo: /images/skills/misc_logo.png
+  summary: "Proficient with office suite, google suite (docs, sheets etc.), skilled with photoshop and know some Illustrator."
   url: "https://docs.microsoft.com/en-us/dotnet/csharp/"

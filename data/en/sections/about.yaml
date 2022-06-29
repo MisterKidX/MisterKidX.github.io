@@ -16,10 +16,11 @@ company:
   url: "https://www.linkedin.com/company/supersky-games/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Resume.pdf"
+resume: "files/DorBenDor_Resume.pdf"
 
 # a summary about you
-summary: 'Set on making games a seriously playful business'
+summary: 'My first real experience as a Game Designer was at the age of 5 when due to the warranted prohibition of the family’s computer I had to port my favorite game back then, Heroes of Might and Magic: A Strategic Quest, unto the floor tiles of our house (solid KPI’s btw).
+Game Design is not only my profession, it is my hobby, my passion, and my mindset. I cast myself into any design, I direct others to match my vision and improve upon it, and I breathe the gameplay and the core values which make games truly interesting.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -47,11 +48,11 @@ socialLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "images/author/dor_finalspace.png"
+# badges:
+# - type: certification
+#   name: Certified Kubernetes Security Specialist
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "images/author/dor_bust_bw.jpg"
 
 # - type: certification
 #   name: Certified Kubernetes Security Specialist

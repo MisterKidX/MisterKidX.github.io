@@ -103,14 +103,14 @@ params:
       #   theme: github-light
       giscus:
         repo: MisterKidX/MisterKidX.github.io
-        repoID: R_kgDOHiRpMA
-        category: General
-        categoryID: DIC_kwDOHiRpMM4CPzhh
-        theme: dark
+        repoID: R_kgDOHlCm-Q
+        category: Announcements
+        categoryID: DIC_kwDOHlCm-c4CP8g-
+        theme: preferred_color_scheme
         map: url
         reaction: 1
         metadata: 0
-        inputPosition: bottom
+        inputPosition: top
         crossOrigin: anonymous
       # commento:
       #   serverURL: cdn.commento.io
