@@ -40,6 +40,8 @@ params:
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
+  # Show tags under the post title
+  enableTags: true
 
   background: "images/Backgrounds/dor_background.jpg"
 
@@ -133,7 +135,7 @@ params:
       enable: true
     # Show/hide credentials section in the footer. Default is "true".
     credentials:
-      enable: true
+      enable: false
 
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
