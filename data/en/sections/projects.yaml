@@ -39,7 +39,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/party-cat
   summary: A cute hypercasual game where you must direct your cat to clean the house
-  tags: ["game design","level design", "casual"]
+  tags: ["game design", "level design", "casual"]
 
 - name: Yeti Getaway
   logo: /images/projects/yeti_logo.jpg
@@ -49,6 +49,15 @@ projects:
   url: posts/projects/yeti-getaway
   summary: Migrated "Yeti Sensation" to Facebook Instant Games.
   tags: ["game design", "facebook", "casual"]
+
+- name: "Neuroderm"
+  logo: /images/projects/neuroderm_logo.jpg
+  role: Game Developer
+  timeline: "October 2018"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: posts/projects/neuroderm
+  summary: A sweet flappy-bird-like game that informs about undiscovered health issues
+  tags: ["game dev", "unity", "casual"]
   
 # - name: Test
 #   logo: /images/sections/projects/kubernetes.png
