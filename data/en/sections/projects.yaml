@@ -18,11 +18,29 @@ buttons:
   filter: "game dev"
 - name: Unity
   filter: "unity"
-- name: Hackathon
-  filter: "hackathon"
+- name: Avocation
+  filter: "avocation"
 
 # your projects
 projects:
+- name: "VoX"
+  logo: /images/projects/vox_logo.jpg
+  role: Game Designer | Game Dev
+  timeline: "February 2018"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: posts/projects/vox
+  summary: A VR racing that doesn't cause nausea :D
+  tags: ["game dev", "unity", "game design"]
+
+- name: "Party Cat"
+  logo: /images/projects/partycat_logo.png
+  role: Level Designer
+  timeline: "September 2018"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: posts/projects/party-cat
+  summary: A cute hypercasual game where you must direct your cat to clean the house
+  tags: ["game design","level design", "casual"]
+
 - name: Yeti Getaway
   logo: /images/projects/yeti_logo.jpg
   role: Game Designer
@@ -30,7 +48,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/yeti-getaway
   summary: Migrated "Yeti Sensation" to Facebook Instant Games.
-  tags: ["game design", "facebook", "published"]
+  tags: ["game design", "facebook", "casual"]
   
 # - name: Test
 #   logo: /images/sections/projects/kubernetes.png
