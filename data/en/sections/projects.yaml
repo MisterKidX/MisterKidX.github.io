@@ -18,6 +18,10 @@ buttons:
   filter: "game dev"
 - name: Unity
   filter: "unity"
+- name: VR
+  filter: "vr"
+- name: Mobile
+  filter: "mobile"
 - name: Avocation
   filter: "avocation"
 
@@ -30,7 +34,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/vox
   summary: A VR racing that doesn't cause nausea :D
-  tags: ["game dev", "unity", "game design"]
+  tags: ["game dev", "unity", "vr"]
 
 - name: "Party Cat"
   logo: /images/projects/partycat_logo.png
@@ -39,7 +43,16 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/party-cat
   summary: A cute hypercasual game where you must direct your cat to clean the house
-  tags: ["game design", "level design", "casual"]
+  tags: ["game design", "level design", "mobile", "casual"]
+
+- name: "Color Maze"
+  logo: /images/projects/colormaze_logo.jpg
+  role: Level Designer
+  timeline: "August 2018"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: posts/projects/colormaze
+  summary: hyper casual puzzle game for IOS & Android Devices
+  tags: ["game design", "level design", "mobile", "casual"]
 
 - name: Yeti Getaway
   logo: /images/projects/yeti_logo.jpg

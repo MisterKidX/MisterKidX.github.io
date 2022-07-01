@@ -29,7 +29,7 @@ Unity Developer | Game Designer
 Racing
 
 ##### STATUS
-Private Buyer
+Private Buyer - designated for VR arcade
 
 ##### PUBLISHER
 [KubiyaX](https://www.kubiyax.com/)
