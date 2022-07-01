@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game development on Dor Ben Dor</title><link>https://www.dorbendor.com/tags/game-development/</link><description>Recent content in game development on Dor Ben Dor</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dorbendor.com/tags/game-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Neuroderm</title><link>https://www.dorbendor.com/posts/projects/neuroderm/</link><pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/neuroderm/</guid><description>Make your way through obstacles and learn a couple of things while at it!
 This flappy bird look-a-like is teaching us about the problems of current Parkinson medication and how they might be solved. The real pride of this project on my side, beyond the tight schedule, is the music and SFX that I composed 🙂. The game was developed over a 24 hour preriod!
 listen! PLATFORM PC</description></item><item><title>VoX</title><link>https://www.dorbendor.com/posts/projects/vox/</link><pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/vox/</guid><description>Race! VoX is a unique VR arcade game where you’ll try to out best yourself and your friends. Collect coins, drift and stay on track!
-If you worked with VR, guess you could spot the challenge here: How do you handle motion sickness and racing in VR? It’s hard, but doable. Wrapping google anti motion sickness SDK with unity scripts while also improving on that SDK proved to be a viable solution.</description></item></channel></rss>
+If you worked with VR, guess you could spot the challenge here: How do you handle motion sickness and racing in VR? It’s hard, but doable. Wrapping google anti motion sickness SDK with unity scripts while also improving on that SDK proved to be a viable solution.</description></item><item><title>Bow &amp; Arrow</title><link>https://www.dorbendor.com/posts/projects/bow-and-arrow/</link><pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/bow-and-arrow/</guid><description>“Hear ye! Hear ye! The king is looking for the best archer in the land! Are you up for a challenge of Bow &amp;amp; Arrow?
+This was so much fun to make and one of my first experiences with VR. The game feels intuitive to play and player skill increases in a steep curve.
+PLATFORM
+Virtual Reality (HTC Vive, Oculus)
+ROLE
+Sole Developer
+GENRE
+Arcade, Puzzle
+STATUS
+Private Buyer - designated for VR arcade</description></item></channel></rss>
