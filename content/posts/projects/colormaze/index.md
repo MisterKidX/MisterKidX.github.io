@@ -13,6 +13,8 @@ tags: ["game design", "level design", "mobile", "casual", "hyper casual", "IOS",
 categories: ["Game", "Project"]
 ---
 
+*Swipe! Swipe! Swipe to fill the screen with bright colors!*
+
 This project was challenging because of the overtly simple core mechanics, which at first didn’t allow intricate level design. In addition, the publishers didn’t want any levels where the player could actually get stuck, so a careful thought was given to how to build the levels that in the beginning they would introduce the mechanics and later on could actualy pose a bit of challenge.
 
 The next game in the series, [Party Cat](/posts/projects/party-cat), posed even a greater challenge as the game board shrank and the demand for more visually stimulating levels was introduced.
