@@ -54,6 +54,15 @@ projects:
   summary: hyper casual puzzle game for IOS & Android Devices
   tags: ["game design", "level design", "mobile", "casual"]
 
+- name: "Bow & Arrow"
+  logo: /images/projects/bow-and-arrow_logo.jpg
+  role: Game Designer | Game Dev
+  timeline: "November 2017"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: posts/projects/bow-and-arrow
+  summary: Are you precise enough with a bow? Come and test your skills! Arcade puzzle game for VR.
+  tags: ["game dev", "unity", "vr"]
+
 - name: Yeti Getaway
   logo: /images/projects/yeti_logo.jpg
   role: Game Designer
