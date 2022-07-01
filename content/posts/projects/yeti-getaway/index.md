@@ -18,7 +18,7 @@ categories: ["Game", "Project"]
 Migrated the original game, "Yeti Sensation", to Facebook Instant Games. It required a lot of research on the new platform and a deep dive into social mechanics and communication features. You can take a look at the early design process [here](https://drive.google.com/file/d/1veMDQQXAwRd-DpZK5GU3kh2GKPRm9bqR/view?usp=sharing) (the first edit of the doc).
 
 ##### PLATFORM
-Facebook Instant Games
+Facebook Instant Games, Smart TV's
 
 ##### ROLE
 Game Designer
@@ -27,7 +27,7 @@ Game Designer
 Casual, Endless Runner
 
 ##### STATUS
-Published - Taken Down, play the original [here](https://www.crazygames.com/game/yeti-sensation)
+Published - play the original [here](https://www.crazygames.com/game/yeti-sensation)
 
 ##### PUBLISHER
 [PLAY.WORKS](https://play.works/)
