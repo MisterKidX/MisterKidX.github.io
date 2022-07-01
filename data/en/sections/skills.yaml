@@ -30,13 +30,14 @@ skills:
   url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: unity
   logo: /images/skills/unity_logo.png
-  summary: "More than 5 years on the engine, hate it and love it."
+  summary: "More than 5 years on the engine, and like all unity developers I bear both love and hate for it."
   url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: math
   logo: /images/skills/pi_logo.png
-  summary: "I love math and I utilize it everywhere I go."
+  summary: "I always say that if I wasn't a game developer I would be a mathematician. If that doesn't prove how much I love math, then perhaps a quick chat with my
+  wife about my latest obessive approach in solving the prime numbers pattern would help."
   url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: Misc.
   logo: /images/skills/misc_logo.png
-  summary: "Proficient with office suite, google suite (docs, sheets etc.), skilled with photoshop and know some Illustrator."
+  summary: "Proficient with various tools which help me do my work better - office suite, google suite (docs, sheets etc.), photoshop, miro..."
   url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
