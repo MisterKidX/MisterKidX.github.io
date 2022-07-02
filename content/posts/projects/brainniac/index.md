@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Brainiac
     identifier: brainiac
-    weight: 90
+    weight: 150
     parent: projects
 hero: banner.png
 tags: ["game design", "production", "facebook", "educational"]

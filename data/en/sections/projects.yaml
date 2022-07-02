@@ -27,11 +27,19 @@ buttons:
 
 # your projects
 projects:
+
+- name: "Midbaryom"
+  logo: /images/projects/midbaryom_logo.jpg
+  role: Leading Technical Designer
+  timeline: "April 2022 - Present"
+  url: posts/projects/midbaryom
+  summary: A series of inetractive experiences and games set against the backdrop of the Israeli Negev
+  tags: ["game design", "physical", "interactive"]
+
 - name: "VoX"
   logo: /images/projects/vox_logo.jpg
   role: Game Designer | Game Dev
   timeline: "February 2018"
-  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/vox
   summary: A VR racing that doesn't cause nausea :D
   tags: ["game dev", "unity", "vr"]
@@ -40,7 +48,6 @@ projects:
   logo: /images/projects/partycat_logo.png
   role: Level Designer
   timeline: "September 2018"
-  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/party-cat
   summary: A cute hypercasual game where you must direct your cat to clean the house
   tags: ["game design", "level design", "mobile", "casual"]
@@ -49,7 +56,6 @@ projects:
   logo: /images/projects/colormaze_logo.jpg
   role: Level Designer
   timeline: "August 2018"
-  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/colormaze
   summary: hyper casual puzzle game for IOS & Android Devices
   tags: ["game design", "level design", "mobile", "casual"]
@@ -58,7 +64,6 @@ projects:
   logo: /images/projects/bow-and-arrow_logo.jpg
   role: Game Designer | Game Dev
   timeline: "November 2017"
-  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/bow-and-arrow
   summary: Are you precise enough with a bow? Come and test your skills! Arcade puzzle game for VR.
   tags: ["game dev", "unity", "vr"]
@@ -67,7 +72,6 @@ projects:
   logo: /images/projects/yeti_logo.jpg
   role: Game Designer
   timeline: "July 2017 - October 2017"
-  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/yeti-getaway
   summary: Migrated "Yeti Sensation" to Facebook Instant Games.
   tags: ["game design", "facebook", "casual"]
@@ -76,9 +80,8 @@ projects:
   logo: /images/projects/neuroderm_logo.jpg
   role: Game Developer
   timeline: "October 2018"
-  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: posts/projects/neuroderm
-  summary: A sweet flappy-bird-like game that informs about undiscovered health issues
+  summary: A sweet flappy-bird-like game that informs about the hazards of current Parkinson Medication
   tags: ["game dev", "unity", "casual"]
   
 # - name: Test
