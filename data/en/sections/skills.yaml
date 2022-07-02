@@ -15,29 +15,29 @@ skills:
 - name: C#
   logo: /images/skills/csharp_logo.png
   summary: "C# is a second language to me, and I believe it to be the most elegant programming language out there. I used it extensively in WPF and Console applciations, but now serves me regularly with the unity game engine."
-  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: c++
   logo: /images/skills/cpp_logo.png
   summary: "I love c++ for game development because I'm not constrained by anything. Most of my expreince comes from writing c++ in unreal engine."
-  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: git
   logo: /images/skills/git_logo.png
   summary: "Fluent with git workflows and various interfaces (sourcetree, gitbash, gitkraken etc.)."
-  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: unreal engine
   logo: /images/skills/unrealEngine_logo.png
   summary: "Use Unreal for high end projects and level design."
-  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: unity
   logo: /images/skills/unity_logo.png
   summary: "More than 5 years on the engine, and like all unity developers I bear both love and hate for it."
-  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: math
   logo: /images/skills/pi_logo.png
   summary: "I always say that if I wasn't a game developer I would be a mathematician. If that doesn't prove how much I love math, then perhaps a quick chat with my
   wife about my latest obessive approach in solving the prime numbers pattern would help."
-  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: Misc.
   logo: /images/skills/misc_logo.png
   summary: "Proficient with various tools which help me do my work better - office suite, google suite (docs, sheets etc.), photoshop, miro..."
-  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
