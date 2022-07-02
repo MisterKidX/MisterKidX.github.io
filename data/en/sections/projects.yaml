@@ -36,6 +36,14 @@ projects:
   summary: A series of inetractive experiences and games set against the backdrop of the Israeli Negev
   tags: ["game design", "physical", "interactive"]
 
+- name: "My First Animal"
+  logo: /images/projects/my-first-animal_logo.jpg
+  role: Game Designer | Game Dev
+  timeline: "March 2021"
+  url: posts/projects/my-first-animal
+  summary: Toddler oriented game I designed for my kids and uploaded to the play store
+  tags: ["game design", "game dev", "children", "educational", "unity"]
+
 - name: "VoX"
   logo: /images/projects/vox_logo.jpg
   role: Game Designer | Game Dev
