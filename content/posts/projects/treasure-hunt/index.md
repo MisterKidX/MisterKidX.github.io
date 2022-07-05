@@ -5,7 +5,7 @@ description: 1v1 multiplayer game in which  each player hides his treasure, and 
 menu:
   sidebar:
     name: Treasure Hunt 
-    identifier: treasure hunt
+    identifier: treasure-hunt
     weight: 10
     parent: projects
 hero: banner.gif
@@ -22,24 +22,19 @@ It was SO-MUCH-FUN making this game (excuse the all-caps but I really mean it) i
 The gameplay is simple enough for a child, move around using the WASD, hide your treasure in the map and then find the opponents treasure before he gets yours. The main radar is a circular one that grows bigger as you hold the action button, but there are small radars with small radius that can be placed for a couple location to pinpoint the exact location of the treasure once you're near it. And of course all of this is backed by a countdown timer, so you're racing against the clock as well!
 
 ###### Tech Stack
-
-Unity
+Unity <br>
 PlayFab (for async multiplayer. Surprising, I know)
 
 ###### PLATFORM
-
 WebGL
 
 ###### ROLE
-
 Game Dev
 
 ###### GENRE
-
 Casual
 
 ###### STATUS
-
 [Published](https://misterkidx.itch.io/treasure-hunt)
 Pay Attention! You need to match with at least one more player!
 

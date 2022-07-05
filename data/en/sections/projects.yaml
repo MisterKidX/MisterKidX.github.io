@@ -28,6 +28,14 @@ buttons:
 # your projects
 projects:
 
+- name: "Summoners Origins"
+  logo: /images/projects/summoners-origins_logo.jpg
+  role: Consulting Economy Designer
+  timeline: "May 2022 - Present"
+  url: posts/projects/summoners-royale
+  summary: A Real time PvP strategy game for android (web3), empowering players with strategic decisions in intense tactical battles.
+  tags: ["game design", "economy design", "web3", "unity", "mobile"]
+
 - name: "Midbaryom"
   logo: /images/projects/midbaryom_logo.jpg
   role: Leading Technical Designer

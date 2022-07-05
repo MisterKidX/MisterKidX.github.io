@@ -1,6 +1,6 @@
 ---
 title: "Midbaryom"
-date: 2022-07-02
+date: 2022-05-02
 description: A series of inetractive experiences and games set against the backdrop of the Israeli Negev
 menu:
   sidebar:
