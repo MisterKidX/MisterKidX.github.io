@@ -8,12 +8,12 @@ menu:
     identifier: treasure hunt
     weight: 10
     parent: projects
-hero: banner.jpg
+hero: banner.gif
 tags: ["game design", "game dev", "casual", "avocation", "unity", "game jam", "webgl"]
 categories: ["Game", "Project", "Hackathon"]
 ---
 
-*1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.*
+<center> *1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.* </center>
 
 ##### Overview
 It was SO-MUCH-FUN making this game (excuse the all-caps but I really mean it). In just **48** hours + kids we managed, me and my buddy [Gilad](https://gilad.info/), to create this beautiful, simple, fun game. What I love about this design is its simplicity and elegance. A Core mechanic, finding the opponents treasure with radars and nothing more. This core mechanic is so much fun that every other gameplay element that would have been added would have been a catastrophy.
