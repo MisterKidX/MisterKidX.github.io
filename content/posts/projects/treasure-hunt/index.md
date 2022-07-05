@@ -8,7 +8,7 @@ menu:
     identifier: treasure hunt
     weight: 10
     parent: projects
-hero: gifBanner.gif
+hero: banner.jpg
 tags: ["game design", "game dev", "casual", "avocation", "unity", "game jam", "webgl"]
 categories: ["Game", "Project", "Hackathon"]
 ---
@@ -43,4 +43,4 @@ Casual
 [Published](https://misterkidx.itch.io/treasure-hunt)
 Pay Attention! You need to match with at least one more player!
 
-{{< youtube id="AJNCNuRPxgo" autoplay="true" >}}
+{{< youtube id="AJNCNuRPxgo" autoplay="false" >}}
