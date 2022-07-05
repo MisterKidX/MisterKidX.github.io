@@ -44,6 +44,14 @@ projects:
   summary: Toddler oriented game I designed for my kids and uploaded to the play store
   tags: ["game design", "game dev", "children", "educational", "unity"]
 
+- name: "Treasure Hunt"
+  logo: /images/projects/treasure-hunt.jpg
+  role: Game Designer | Game Dev
+  timeline: "Jan. 2021"
+  url: posts/projects/treasure-hunt
+  summary: 1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.
+  tags: ["game design", "game dev", "casual", "avocation", "unity"]
+
 - name: "VoX"
   logo: /images/projects/vox_logo.jpg
   role: Game Designer | Game Dev

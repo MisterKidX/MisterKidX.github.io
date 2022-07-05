@@ -30,6 +30,7 @@ enableEmoji: true
 
 # Site parameters
 params:
+
   # GitHub repo URL of your site, will create a button in all blog post "improve this page", directing to the github page
   gitRepo: https://github.com/MisterKidX/MisterKidX.github.io
   # Default branch of your Git repo
@@ -67,6 +68,12 @@ params:
       enable: true
 
   features:
+
+    analytics:
+      enabled: true
+      goatCounter:
+        code: https://misterkidx.goatcounter.com/count
+
     # Enable and configure portfolio
     portfolio:
       enable: true

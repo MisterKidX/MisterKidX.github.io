@@ -30,7 +30,8 @@ skills:
   # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: unity
   logo: /images/skills/unity_logo.png
-  summary: "More than 5 years on the engine, and like all unity developers I bear both love and hate for it."
+  summary: "More than 5 years on the engine, and like all unity developers I bear both love and hate for it. Critical tools I worked with within the framework:
+  WWISE, Photon PUN, PlayFab, Tobii Eye Tracking."
   # url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
 - name: math
   logo: /images/skills/pi_logo.png
