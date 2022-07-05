@@ -79,8 +79,10 @@ params:
 
     analytics:
       enabled: true
-      goatCounter:
-        code: https://misterkidx.goatcounter.com/count
+      google:
+        id: UA-34333743-1
+      # goatCounter:
+      #   code: https://misterkidx.goatcounter.com/count
 
     # Enable and configure portfolio
     portfolio:
