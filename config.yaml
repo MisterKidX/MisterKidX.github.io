@@ -69,6 +69,14 @@ params:
 
   features:
 
+    support:
+      enabled: true
+      kofi:
+        user: dorbendor
+        text: Buy me Coffee
+        textColor: '#f9fafc'
+        backgroundColor: '#248aaa'
+
     analytics:
       enabled: true
       goatCounter:
