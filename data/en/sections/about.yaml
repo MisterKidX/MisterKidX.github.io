@@ -9,11 +9,11 @@ section:
   hideTitle: false
 
 # your designation
-designation: Game Director
+designation: Game Developer
 # your company information
-company:
-  name: Supersky Inc.
-  url: "https://www.linkedin.com/company/supersky-games/"
+# company:
+  # name: Freelance
+  # url: "https://www.linkedin.com/company/supersky-games/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/DorBenDor_Resume.pdf"
