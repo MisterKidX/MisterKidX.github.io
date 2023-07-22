@@ -1,2 +1,2 @@
-cd C:\Users\ageso\Website\MisterKidX.github.io
+cd %MySite%
 hugo server --theme toha --watch
