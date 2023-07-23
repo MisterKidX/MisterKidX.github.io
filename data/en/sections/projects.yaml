@@ -28,10 +28,18 @@ buttons:
 # your projects
 projects:
 
-- name: "Summoners Origins"
-  logo: /images/projects/summoners-origins_logo.jpg
+- name: "Warriors: Rise to Glory"
+  logo: /images/projects/wrtg.png
+  role: Unity Developer
+  timeline: "April 2020 - October 2020"
+  url: posts/projects/wrtg
+  summary: "A rouguelite strategy game for PC, taking inspiration from the original Swords & Sandals."
+  tags: ["game dev", "unity", "PC", "multiplayer", "indie"]
+
+- name: "Summoners Royale"
+  logo: /images/projects/summonersRoyale.png
   role: Consulting Economy Designer
-  timeline: "May 2022 - Present"
+  timeline: "Febuary 2022 - July 2022"
   url: posts/projects/summoners-royale
   summary: A Real time PvP strategy game for android (web3), empowering players with strategic decisions in intense tactical battles.
   tags: ["game design", "economy design", "web3", "unity", "mobile"]
@@ -39,7 +47,7 @@ projects:
 - name: "Midbaryom"
   logo: /images/projects/midbaryom_logo.jpg
   role: Leading Technical Designer
-  timeline: "April 2022 - Present"
+  timeline: "April 2022 - August 2022"
   url: posts/projects/midbaryom
   summary: A series of inetractive experiences and games set against the backdrop of the Israeli Negev
   tags: ["game design", "physical", "interactive"]

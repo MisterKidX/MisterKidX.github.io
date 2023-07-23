@@ -9,7 +9,7 @@ menu:
     weight: 1
     parent: projects
 hero: banner.jpeg
-tags: ["game dev", "PC", "RPG", "Unity"]
+tags: ["game dev", "PC", "rpg", "unity", "indie"]
 categories: ["Game", "Project"]
 ---
 
