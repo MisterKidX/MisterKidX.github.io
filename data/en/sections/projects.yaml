@@ -28,13 +28,21 @@ buttons:
 # your projects
 projects:
 
+- name: "Phanton Beasts"
+  logo: /images/projects/phantomBeastsIcon.png
+  role: Lead Developer
+  timeline: "October 2020 - Februar 2022"
+  url: posts/projects/phantom-beasts
+  summary: "A 2.5D shooter set in a mysterious city where phantoms roam..."
+  tags: ["game dev", "game design", "unity", "PC", "console", "multiplayer", "indie"]
+
 - name: "Warriors: Rise to Glory"
   logo: /images/projects/wrtg.png
   role: Unity Developer
   timeline: "April 2020 - October 2020"
   url: posts/projects/wrtg
   summary: "A rouguelite strategy game for PC, taking inspiration from the original Swords & Sandals."
-  tags: ["game dev", "unity", "PC", "multiplayer", "indie"]
+  tags: ["game dev", "unity", "PC", "multiplayer", "indie", "published"]
 
 - name: "Summoners Royale"
   logo: /images/projects/summonersRoyale.png

@@ -1,6 +1,6 @@
 ---
 title: "Warriors Rise To Glory"
-date: 2020-10-30
+date: 2023-06-07
 description: "Worked on Warriors: Rise To Glory"
 menu:
   sidebar:
