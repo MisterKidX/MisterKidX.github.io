@@ -1,7 +1,7 @@
 
 # section information
 section:
-  name: Tools
+  name: Toolbox
   id: skills
   enable: true
   weight: 2
