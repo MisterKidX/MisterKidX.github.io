@@ -1,10 +1,10 @@
 ---
-title: "Summoners Origins"
+title: Summoners Royale
 date: 2022-06-11
 description: A Real time PvP strategy game for android (web3), empowering players with strategic decisions in intense tactical battles.
 menu:
   sidebar:
-    name: Summoners Origins
+    name: Summoners Royale
     identifier: summoners-origins
     weight: 4
     parent: published
@@ -45,6 +45,8 @@ Real Time Strategy (RTS), Tower Rush
 
 ###### Publisher
 [Supersky](https://www.linkedin.com/company/supersky-games/)
+[1](https://www.youtube.com/watch?v=-jCiJIgTRUE&ab_channel=SummonersUniverse)
+[2](https://www.youtube.com/watch?v=x-BvQtfSFV8&ab_channel=JayMaDGaming)
 
 <br>
 {{< youtube id="ciAwYjNLh30" autoplay="false" >}}
