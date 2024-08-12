@@ -32,7 +32,7 @@ projects:
   logo: /images/projects/phantomBeastsIcon.png
   role: Lead Developer
   timeline: "October 2020 - Februar 2022"
-  url: posts/projects/phantom-beasts
+  url: posts/projects/development/phantom-beasts
   summary: "A 2.5D shooter set in a mysterious city where phantoms roam..."
   tags: ["game dev", "game design", "unity", "PC", "console", "multiplayer", "indie"]
 
@@ -40,7 +40,7 @@ projects:
   logo: /images/projects/wrtg.png
   role: Unity Developer
   timeline: "April 2020 - October 2020"
-  url: posts/projects/wrtg
+  url: posts/projects/published/warriors-rise-to-glory
   summary: "A rouguelite strategy game for PC, taking inspiration from the original Swords & Sandals."
   tags: ["game dev", "unity", "PC", "multiplayer", "indie", "published"]
 
@@ -48,7 +48,7 @@ projects:
   logo: /images/projects/summonersRoyale.png
   role: Consulting Economy Designer
   timeline: "Febuary 2022 - July 2022"
-  url: posts/projects/summoners-royale
+  url: posts/projects/published/summoners-royale/
   summary: A Real time PvP strategy game for android (web3), empowering players with strategic decisions in intense tactical battles.
   tags: ["game design", "economy design", "web3", "unity", "mobile"]
 
@@ -56,7 +56,7 @@ projects:
   logo: /images/projects/midbaryom_logo.jpg
   role: Leading Technical Designer
   timeline: "April 2022 - August 2022"
-  url: posts/projects/midbaryom
+  url: /posts/projects/published/midbaryom/
   summary: A series of inetractive experiences and games set against the backdrop of the Israeli Negev
   tags: ["game design", "physical", "interactive"]
 
@@ -64,7 +64,7 @@ projects:
   logo: /images/projects/my-first-animal_logo.jpg
   role: Game Designer | Game Dev
   timeline: "March 2021"
-  url: posts/projects/my-first-animal
+  url: /posts/projects/published/my-first-animal/
   summary: Toddler oriented game I designed for my kids and uploaded to the play store
   tags: ["game design", "game dev", "children", "educational", "unity"]
 
@@ -72,7 +72,7 @@ projects:
   logo: /images/projects/treasure-hunt.jpg
   role: Game Designer | Game Dev
   timeline: "Jan. 2021"
-  url: posts/projects/treasure-hunt
+  url: /posts/projects/misc/hackathons/treasure-hunt/
   summary: 1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.
   tags: ["game design", "game dev", "casual", "avocation", "unity"]
 
@@ -80,7 +80,7 @@ projects:
   logo: /images/projects/vox_logo.jpg
   role: Game Designer | Game Dev
   timeline: "February 2018"
-  url: posts/projects/vox
+  url: /posts/projects/misc/exercises/vox/
   summary: A VR racing that doesn't cause nausea :D
   tags: ["game dev", "unity", "vr"]
 
@@ -88,7 +88,7 @@ projects:
   logo: /images/projects/partycat_logo.png
   role: Level Designer
   timeline: "September 2018"
-  url: posts/projects/party-cat
+  url: /posts/projects/published/party-cat/
   summary: A cute hypercasual game where you must direct your cat to clean the house
   tags: ["game design", "level design", "mobile", "casual"]
 
@@ -96,7 +96,7 @@ projects:
   logo: /images/projects/colormaze_logo.jpg
   role: Level Designer
   timeline: "August 2018"
-  url: posts/projects/colormaze
+  url: /posts/projects/published/colormaze/
   summary: hyper casual puzzle game for IOS & Android Devices
   tags: ["game design", "level design", "mobile", "casual"]
 
@@ -104,7 +104,7 @@ projects:
   logo: /images/projects/bow-and-arrow_logo.jpg
   role: Game Designer | Game Dev
   timeline: "November 2017"
-  url: posts/projects/bow-and-arrow
+  url: /posts/projects/published/bow-and-arrow/
   summary: Are you precise enough with a bow? Come and test your skills! Arcade puzzle game for VR.
   tags: ["game dev", "unity", "vr"]
 
@@ -112,7 +112,7 @@ projects:
   logo: /images/projects/yeti_logo.jpg
   role: Game Designer
   timeline: "July 2017 - October 2017"
-  url: posts/projects/yeti-getaway
+  url: /posts/projects/published/yeti-getaway/
   summary: Migrated "Yeti Sensation" to Facebook Instant Games.
   tags: ["game design", "facebook", "casual"]
 
@@ -120,7 +120,7 @@ projects:
   logo: /images/projects/neuroderm_logo.jpg
   role: Game Developer
   timeline: "October 2018"
-  url: posts/projects/neuroderm
+  url: /posts/projects/published/neuroderm/
   summary: A sweet flappy-bird-like game that informs about the hazards of current Parkinson Medication
   tags: ["game dev", "unity", "casual"]
   
