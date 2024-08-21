@@ -1,5 +1,6 @@
 ---
 title: Project Name
+draft: true
 date: 23-12-2022
 description: talk about the game
 menu:
@@ -7,7 +8,7 @@ menu:
     name: Game Name on sidebar
     identifier: small-caps-snake-name
     weight: 4 # how important this is compared to other posts 
-    parent: published # parent folder: published, in development, hackathons, exercises
+    parent: draft # parent folder: published, in development, hackathons, exercises
 hero: banner.jpg
 # professoin tags: game design, game economy
 # platform tags: mobile, android, IOS, WEB3
