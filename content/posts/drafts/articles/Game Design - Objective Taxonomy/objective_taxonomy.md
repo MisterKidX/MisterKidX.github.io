@@ -2,6 +2,7 @@
 title: Project Name
 date: 23-12-2022
 description: talk about the game
+draft: true
 menu:
   sidebar:
     name: Game Name on sidebar

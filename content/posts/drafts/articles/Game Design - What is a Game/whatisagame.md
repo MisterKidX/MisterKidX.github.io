@@ -2,6 +2,7 @@
 title: What is a game
 date: 23-12-2022
 description: talk about the game
+draft: true
 menu:
   sidebar:
     name: Game Name on sidebar
