@@ -226,7 +226,7 @@ Nothing fancy here, maybe just a bit cryptic. The [`EditorGuiUtility.IconContent
 
 ### Summary
 
-Scriptable Hodlers are great. They allow us to Decorate a serializable class with a SOs capabilities, easily hooking the class to unity and keeping the original code clean and decoupled. They are simple, scarcely used, and they would not change the way you work with Unity - which is exactly why I like them.
+Scriptable Hodlers are great. They allow us to Decorate a serializable class with the capabilites of a Scriptable Object, easily hooking the class to unity and keeping the original code clean and decoupled. They are simple, scarcely used, and they would not change the way you work with Unity - which is exactly why I like them.
 
 ##### Important Links
 
