@@ -19,7 +19,11 @@ categories: ["unity", "advanced"]
 
 [Scriptable Objects](https://docs.unity3d.com/Manual/class-ScriptableObject.html) (SOs) are awesome. It's been said before, it will be said in the future and currently, many Unity devs use them to architect their code and write great games. But (you knew this was coming), they are still a tight coupling to the unity engine - Scriptable Objects only make sense inside the unity framework. I noticed most Unity devs don't give a f*** about this, but I do give plenty. To avoid my rant about how writing C# in Unity is like driving a Bugatti at 10 MPH on the freeway I'll just say that I like to write [Plain Old C# Objects](https://en.wikipedia.org/wiki/Plain_old_CLR_object) ([POCOS](https://www.youtube.com/watch?v=yg8116aeD7E&ab_channel=DisneyMusicVEVO)) and that writing code that is not tightly coupled to a specific framework is generally a good thing.
 
-Stemming from this assumption, and admitting that not all code files are yours to change and just inherit from ScriptableObject, I created Scriptable Holders - simple SOs that decorate serializable classes and allow me to hook my plain classes back into Unity. I originally needed them a couple of years back while wanting to debug and create client-side mock environments for my client's server. I wrapped serializable API responses, thus allowing both me and the QA to quickly change and view the response in editor time to suit our needs.
+Stemming from this assumption, and admitting that not all code files are yours to change and just inherit from ScriptableObject, I created Scriptable Holders - simple SOs that decorate serializable classes and allow me to hook my plain classes back into Unity.
+
+Scriptable Holders are a framework-specific solution for unity. In essence, they are [Decorators](https://refactoring.guru/design-patterns/decorator) for POCOS - they provide an easy way to hook POCOS into the unity framework. In a semantic way, scriptable holders are like the old [Nullable\<T\>](https://learn.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-8.0) implementation in C#, or [Lazy\<T\>](https://learn.microsoft.com/en-us/dotnet/api/system.lazy-1?view=net-8.0). They just wrap around a value to give it special properties, in this case, hooking it to unity.
+
+I originally needed them a couple of years back while wanting to debug and create client-side mock environments for my client's server. I wrapped serializable API responses, thus allowing both me and the QA to quickly change and view the response in editor time to suit our needs.
 
 <p float="left" align="center">
   <img src="MockAPI.svg" width="30%" />
@@ -32,8 +36,6 @@ Stemming from this assumption, and admitting that not all code files are yours t
 **Problem Statement** - I want to hook my C# code to unity without inheriting from `ScriptableObject`, either because I can't or because I don't want to tightly couple my code.
 
 **Solution** - Scriptable Holders: SOs designed to hold an external serialized class value.
-
-Scriptable Holders are a framework-specific solution, [Decorators](https://refactoring.guru/design-patterns/decorator) for POCOS. They provide an easy way to hook POCOS into the unity framework. In a semantic way, scriptable holders are like the old [Nullable\<T\>](https://learn.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-8.0) implementation in C#, or [Lazy\<T\>](https://learn.microsoft.com/en-us/dotnet/api/system.lazy-1?view=net-8.0). They just wrap around a value to give it special properties, in this case, hooking it to unity.
 
 #### Code Solution
 
