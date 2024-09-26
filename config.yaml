@@ -120,21 +120,21 @@ params:
       #   repo: github.com/hugo-toha/hugo-toha.github.io
       #   issueTerm: title
       #   theme: github-light
-      giscus:
-        repo: MisterKidX/MisterKidX.github.io
-        repoID: R_kgDOHlCm-Q
-        category: Announcements
-        categoryID: DIC_kwDOHlCm-c4CP8g-
-        theme: preferred_color_scheme
-        map: url
-        reaction: 1
-        metadata: 0
-        inputPosition: top
-        crossOrigin: anonymous
-      # commento:
-      #   serverURL: cdn.commento.io
-      #   autoInit: true
-      #   hideDeleted: false
+      # giscus:
+      #   repo: MisterKidX/MisterKidX.github.io
+      #   repoID: R_kgDOHlCm-Q
+      #   category: Announcements
+      #   categoryID: DIC_kwDOHlCm-c4CP8g-
+      #   theme: preferred_color_scheme
+      #   map: url
+      #   reaction: 1
+      #   metadata: 0
+      #   inputPosition: top
+      #   crossOrigin: anonymous
+      commento:
+        serverURL: cdn.commento.io
+        autoInit: true
+        hideDeleted: false
 
   # Provide footer configuration.
   footer:
