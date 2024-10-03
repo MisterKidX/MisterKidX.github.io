@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2022 Copyright.
+copyright: © 2024 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of Dor Ben Dor, Game Designer | Game Developer | Educator, speaking about Unity Game Engine | Unreal Game Engine | Games | Game Dvelopment.
@@ -34,6 +34,6 @@ customMenus:
 openGraph:
   title: Dor Ben Dor
   type: website
-  description: Portfolio and personal blog of Dor Ben Dor, Game Designer | Game Developer | Educator.
+  description: Portfolio and personal blog of Dor Ben Dor, Game Designer | Game Developer | Educator | Ludologist.
   image: "images/author/dor_pixelart.png"
   url: https://dorbendor.com
