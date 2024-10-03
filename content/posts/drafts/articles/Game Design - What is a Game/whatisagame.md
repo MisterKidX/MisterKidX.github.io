@@ -39,6 +39,35 @@ This is exremely apperant in a game like The Sims. Formally speaking, the sims i
 
 Unlike most mediums which must have some attributes to them (literature - written words, film - video, etc.) games can emerge anywhere and at any time. There are infinite games just waiting to be found.
 
+## Preface: Design is a Range, Not an Absolute
+
+Take a look at the following picture and decide, is this green or red?
+
+// picture of a background with values (255, 1, 1)
+
+You probably answered Red, and you are not mistaken, but from an absolute perspectice this picture is **also** green and blue. In fact, this picture's color is whatever the consumer of the picture tells us it is. For designers, there is not an abolute value to anything, it is all relative to our audience, and our audience each sees it from its own perspective. A color can vastly change:
+- if the user is color blind
+- the screen outputs it with a tinge
+- another source of light affects the color
+- etc
+
+From an absolute perspective, this color is red. But it is also green and blue (It's RGB values are \[255,1,1\]). Then you are not mistaken, but you did not entirely capture the truth either. The truth should be neglected, for perspective is king, and truth is for science.
+
+A great example of this is a common Haggadah amongst game design circles. An FPS game[^1] had a problem with one of its guns - nobody was using it. In an attempt to balance the experience, game designers ramped up the guns stats (damage, range, etc.) but to no avail. So instead of ramping up numbers, the designers decided to improve the animations and the SFX of the gun, and voila! it turned to be the most used (but not powerful) gun in the game.
+
+We, designers, deal with relatives, not with absolutes. There is no truth, only multideminsinal meanings we sugggest, and our players peek at them in 1D, each from her own perspective. The same goes for defining games, a clear academic definition will just be a lie and probably meaningless in the near future. Games evolve and will continue to evolve, they are much a social structure as they are a rigid strcture that encompasses pass time expereinces. 
+
+to this I say, the more a product is\has:
+- abstract rules
+- arbitrary rules
+- physical inputs (cards, joysticks)
+- player control
+- objectives
+- heirerchal structure
+- meaningless and yet endogenous consequences
+
+the more of a game it is. Hence, games are not a boolean value, they are a range.
+
 # Assumptions
 
 Games are interactive - they require a consumer to take an active part.
@@ -146,8 +175,6 @@ This is why it is improtant that any designer will have its own defintion of wha
 Conflict is friction, it is one body trying to move in a way that is conflicting with physical rules of the world.
 To use the terminology of games, it is an entity trying to achieve something and the structure imposing a challenge: other entities, the structure itself, the precision of the entity and more.
 
-
-
 # must games be fun?
 
 Jobs are inherently a construct with governing rules. We can easily spot do’s and don’ts. So why aren’t jobs games in the first place?
@@ -155,3 +182,8 @@ Because jobs are nested in reality, with real consequences, whereas games are ne
 
 Fun - Games are not about fun, per se, they are a medium that conveys an experience through the means of interaction. Games hold inherent values of fun, enjoyment, or entertainment because they convey consequences in a safe environment.
 
+# Misc
+
+I would like to suggest that game designers don't really create games, we create suggestions of games, structures to which players can adhere and play **their** game.
+
+[^1] I have heard this attributed to many FPS games such as Halo, Batttlefield and Call of Duty. Frankly, nobody cares.
