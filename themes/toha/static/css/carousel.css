@@ -1,6 +1,6 @@
 /* Ensure the container of the carousel is centered and has a fixed width */
 .carousel-container {
-  width: 268%;
+  width: 100%;
   display: flex;
   justify-content: center;
   overflow: hidden;

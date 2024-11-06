@@ -32,4 +32,6 @@ In Development - You can see the game on [Steam](https://store.steampowered.com/
 ##### PUBLISHER
 full Indie :D
 
+https://www.phantombeasts.studio/
+
 {{< youtube height="500" width="500" id="e8BZvqP3SPs" autoplay="true" >}}
