@@ -1,47 +1,47 @@
 section:
-  name: Clients
+  name: Clientele
   id: achievements
-  enable: false
-  weight: 6
+  enable: true
+  weight: 20
   showOnNavbar: false
   # Can optionally hide the title in sections
-  # hideTitle: true
+  hideTitle: false
 
 # Your achievements achievements
 achievements:
-- title: Elbit
-  image: /images/clients/elbit_logo.png
-  summary: Best presenter in the 2020 XYZ conference.
-- title: GameIS
-  image: /images/clients/gameis_circle.png
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Elbit
-  image: /images/clients/elbit_logo.png
-  summary: Best presenter in the 2020 XYZ conference.
-- title: GameIS
-  image: /images/clients/gameis_circle.png
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Elbit
-  image: /images/clients/elbit_logo.png
-  summary: Best presenter in the 2020 XYZ conference.
-- title: GameIS
-  image: /images/clients/gameis_circle.png
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Elbit
-  image: /images/clients/elbit_logo.png
-  summary: Best presenter in the 2020 XYZ conference.
-- title: GameIS
-  image: /images/clients/gameis_circle.png
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Elbit
-  image: /images/clients/elbit_logo.png
-  summary: Best presenter in the 2020 XYZ conference.
-- title: GameIS
-  image: /images/clients/gameis_circle.png
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Elbit
-  image: /images/clients/elbit_logo.png
-  summary: Best presenter in the 2020 XYZ conference.
-- title: GameIS
-  image: /images/clients/gameis_circle.png
-  summary: Champion in cycling inter-city cycling championship 2020.
+# - title: Elbit
+#   image: /images/clients/elbit_logo.png
+#   summary: Best presenter in the 2020 XYZ conference.
+# - title: GameIS
+#   image: /images/clients/gameis_circle.png
+#   summary: Champion in cycling inter-city cycling championship 2020.
+# - title: Elbit
+#   image: /images/clients/elbit_logo.png
+#   summary: Best presenter in the 2020 XYZ conference.
+# - title: GameIS
+#   image: /images/clients/gameis_circle.png
+#   summary: Champion in cycling inter-city cycling championship 2020.
+# - title: Elbit
+#   image: /images/clients/elbit_logo.png
+#   summary: Best presenter in the 2020 XYZ conference.
+# - title: GameIS
+#   image: /images/clients/gameis_circle.png
+#   summary: Champion in cycling inter-city cycling championship 2020.
+# - title: Elbit
+#   image: /images/clients/elbit_logo.png
+#   summary: Best presenter in the 2020 XYZ conference.
+# - title: GameIS
+#   image: /images/clients/gameis_circle.png
+#   summary: Champion in cycling inter-city cycling championship 2020.
+# - title: Elbit
+#   image: /images/clients/elbit_logo.png
+#   summary: Best presenter in the 2020 XYZ conference.
+# - title: GameIS
+#   image: /images/clients/gameis_circle.png
+#   summary: Champion in cycling inter-city cycling championship 2020.
+# - title: Elbit
+#   image: /images/clients/elbit_logo.png
+#   summary: Best presenter in the 2020 XYZ conference.
+# - title: GameIS
+#   image: /images/clients/gameis_circle.png
+#   summary: Champion in cycling inter-city cycling championship 2020.
