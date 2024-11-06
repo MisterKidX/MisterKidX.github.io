@@ -11,8 +11,8 @@
 .carousel {
   display: flex;
   gap: 20px;
-  width: 200%; /* This ensures both sets of images are in view */
-  animation: scroll 15s linear infinite; /* Continuous scrolling animation */
+  width: 5440px; /* This ensures both sets of images are in view  (num of pics) * (gap + img width) * 2*/
+  animation: scroll 35s linear infinite; /* Continuous scrolling animation */
 }
 
 /* Style the individual images */
@@ -29,6 +29,6 @@
     transform: translateX(0); /* Starting position */
   }
   100% {
-    transform: translateX(-50%); /* Scroll images by 50% of the container width */
+    transform: translateX(-3240px); /* Scroll images by 50% of the container width */
   }
 }
