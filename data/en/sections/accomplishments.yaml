@@ -4,7 +4,7 @@ section:
   id: accomplishments
   enable: false
   weight: 15
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -13,6 +13,7 @@ section:
 accomplishments:
 - name: Xternity
   timeline: 
+  logo: /images/clients/gameis_circle.png
   organization:
     name: visit
     url: https://www.linuxfoundation.org

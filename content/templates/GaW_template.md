@@ -28,3 +28,4 @@ categories: ["Game", "Project"]
 - what did i learn along the way
 - known mehcanics left behind
 - how would I approach this differently if it was a production game
+- how to extend
