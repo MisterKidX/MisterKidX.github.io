@@ -8,7 +8,10 @@ menu:
     name: Game Name on sidebar
     identifier: small-caps-snake-name
     weight: 300 # how important this is compared to other posts 
-    parent: articles # parent folder: published, in development, hackathons, exercises
+    # 1-10 important
+    # 11-20 less important
+    # 21 - 100 canceled, hackathons, etc...
+    parent: articles # parent folder: published, in development, hackathons, exercises, canceled
 hero: banner.jpg
 # professoin tags: game design, game economy
 # platform tags: mobile, android, IOS, WEB3
@@ -18,6 +21,8 @@ tags: ["game design", "game economy", "mobile", "android", "unity", "web3", "RTS
 # categories: Game, Project
 categories: ["Game", "Project"]
 ---
+
+<center> <i> description or fluff here </i> </center>
 
 <div align="center" style="width: 100%">
 
@@ -82,7 +87,6 @@ categories: ["Game", "Project"]
 
 <br>
 
-<center> <i> description or fluff here </i> </center>
 
 ## Overview
 descrive the game and my work on it in more detail
@@ -90,6 +94,10 @@ descrive the game and my work on it in more detail
 <div align="center">
   <img src="pb_timogo.gif" alt="Changing to Timogo"/>
 </div>
+
+## Role
+
+Talk about my responsibilities in the project
 
 ## Retrospect (Canceled project)
 

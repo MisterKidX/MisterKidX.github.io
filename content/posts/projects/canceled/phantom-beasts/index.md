@@ -1,13 +1,12 @@
 ---
 title: "Phantom Beasts"
-date: 2020-06-08T06:00:23+06:00
-#23-12-2022
+date: 2022-12-23
 description: "A 2.5D shooter set in a dystopian city where animal hybrids lay menace..."
 menu:
   sidebar:
     name: "Phantom Beasts"
     identifier: phantom-beasts
-    weight: 3
+    weight: 10
     parent: canceled
 hero: banner.png
 tags: ["PC", "shooter", "unity", "indie", "2.5D"]
