@@ -32,7 +32,7 @@ projects:
   logo: /images/projects/phantomBeastsIcon.png
   role: Lead Developer
   timeline: "October 2020 - Februar 2022"
-  url: posts/projects/development/phantom-beasts
+  url: posts/projects/canceled/phantom-beasts
   summary: "A 2.5D shooter set in a mysterious city where phantoms roam..."
   tags: ["game dev", "game design", "unity", "PC", "console", "multiplayer", "indie"]
 

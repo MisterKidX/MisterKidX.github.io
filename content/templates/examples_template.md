@@ -43,3 +43,48 @@ Button
 <p style="font-size: 36px; text-align: center;">
   <a href="https://misterkidx.itch.io/game-a-week-heroes-of-might-and-magic" class="button-link" target="_blank">Play the Prototype</a>
 </p>
+
+Table
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+| Column 1      | Column 2      |
+| ------------- | ------------- |
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 1, Row 2 |
+
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+<div align="center">
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data     | More Data|
+| Row 2    | Data     | More Data|
+
+</div>
+
+Checklist
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
