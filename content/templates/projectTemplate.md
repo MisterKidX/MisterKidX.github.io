@@ -14,8 +14,8 @@ menu:
     parent: articles # parent folder: published, in development, hackathons, exercises, canceled
 hero: banner.jpg
 # professoin tags: game design, game economy
-# platform tags: mobile, android, IOS, WEB3
-# genre tags: RTS
+# platform tags: mobile, android, IOS, WEB3, VR
+# genre tags: RTS, Racing, Action, Shooter, 3D, 2D
 # tech tags: unity
 tags: ["game design", "game economy", "mobile", "android", "unity", "web3", "RTS"] 
 # categories: Game, Project
@@ -29,7 +29,7 @@ categories: ["Game", "Project"]
 <style>
     /* Basic styling for readability */
     table {
-        width: 80%;
+        width: 90%;
         margin: 20px auto;
         border-collapse: collapse;
         font-family: Arial, sans-serif;
@@ -68,13 +68,15 @@ categories: ["Game", "Project"]
     <th>Platform</th>
     <th>Role</th>
     <th>Status</th>
+    <th>Client</th>
   </tr>
   <tr>
     <td>Action, Shooter, 2.5D</td>
     <td>Unity, C#, Multiplayer</td>
     <td>PC</td>
     <td>Lead Developer</td>
-    <td>Canceled</td>
+    <td>Published</td>
+    <td><a href="https://www.kubiyax.com/">Kubiyax<a></td>
   </tr>
 </table>
 
@@ -89,7 +91,7 @@ categories: ["Game", "Project"]
 
 
 ## Overview
-descrive the game and my work on it in more detail
+descrive the game and the project in more detail
 
 <div align="center">
   <img src="pb_timogo.gif" alt="Changing to Timogo"/>
@@ -103,15 +105,5 @@ Talk about my responsibilities in the project
 
 talk about why this game failed
 
-## Publisher
-Give link to publisher website
-[Supersky](https://www.linkedin.com/company/supersky-games/)
-[1](https://www.youtube.com/watch?v=-jCiJIgTRUE&ab_channel=SummonersUniverse)
-[2](https://www.youtube.com/watch?v=x-BvQtfSFV8&ab_channel=JayMaDGaming)
-
-
-
-
 <br>
-VIDEO HERE
 {{< youtube id="ciAwYjNLh30" autoplay="false" >}}
