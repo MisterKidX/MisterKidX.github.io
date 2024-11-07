@@ -30,3 +30,7 @@ Published
 ##### PUBLISHER
 
 {{< youtube height="500" width="500" id="9EA85sr7gCk" autoplay="true" >}}
+
+create build of old game
+create build of new game
+show recordings of old gameplay (indside folder on external hard drive)
