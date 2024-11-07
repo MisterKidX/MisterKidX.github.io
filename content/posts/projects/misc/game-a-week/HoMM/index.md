@@ -10,7 +10,7 @@ menu:
     weight: 1
     parent: game-a-week
 hero: banner.png
-tags: ["game design", "game development", "prototype", "pc", "unity"] 
+tags: ["prototype", "pc", "unity", "strategy", "game design", "game development",] 
 categories: ["Game", "Project", "Avocation", "Game a Week"]
 ---
 
