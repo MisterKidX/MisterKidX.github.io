@@ -1,6 +1,7 @@
 ---
 title: "Phantom Beasts"
-date: 23-12-2022
+date: 2020-06-08T06:00:23+06:00
+#23-12-2022
 description: "A 2.5D shooter set in a dystopian city where animal hybrids lay menace..."
 menu:
   sidebar:
