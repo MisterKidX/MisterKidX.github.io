@@ -65,7 +65,7 @@ categories: ["Game", "Project"]
     <td>VR, Oculus</td>
     <td>Unity Developer, Gameplay Designer</td>
     <td>Completed</td>
-    <td><a href="https://www.kubiyax.com/">Kubiyax<a></td>
+    <td><a href="https://www.kubiyax.com/" target="_blank">Kubiyax<a></td>
   </tr>
 </table>
 

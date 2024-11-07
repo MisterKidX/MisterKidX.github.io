@@ -59,13 +59,15 @@ categories: ["Game", "Project"]
     <th>Platform</th>
     <th>Role</th>
     <th>Status</th>
+    <th>Client</th>
   </tr>
   <tr>
     <td>Action, Shooter, 2.5D</td>
     <td>Unity, C#, Multiplayer</td>
     <td>PC</td>
-    <td>Lead Developer</td>
+    <td>Lead Developer & Shareholder</td>
     <td>Canceled</td>
+    <td><a href="https://www.phantombeasts.studio/" target="_blank">Ready Steady Games<a></td>
   </tr>
 </table>
 
@@ -100,7 +102,5 @@ As lead developer, I was in charge of two other developers while building the co
 ## Retrospect
 
 Phantom Beasts development was hard lessons truly learned. At its core, the game had great potential, but we were naive about the production processes and did many mistakes in all aspects of development. The development of this game was part a test of passion and skill, both endured, but in the end feature creep, production ignorance, and lack of publishing skills brough it down. It's ok, everyone on the team loved what we did, and we wouldn't change a thing (obvious lie) for what we've learned.
-
-https://www.phantombeasts.studio/
 
 {{< youtube height="500" width="500" id="e8BZvqP3SPs" autoplay="true" >}}

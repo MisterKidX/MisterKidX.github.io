@@ -76,7 +76,7 @@ categories: ["Game", "Project"]
     <td>PC</td>
     <td>Lead Developer</td>
     <td>Published</td>
-    <td><a href="https://www.kubiyax.com/">Kubiyax<a></td>
+    <td><a href="" target="_blank">Kubiyax<a></td>
   </tr>
 </table>
 
