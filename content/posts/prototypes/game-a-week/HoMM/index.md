@@ -7,7 +7,7 @@ menu:
   sidebar:
     name: HoMM
     identifier: heroes-of-might-and-magic
-    weight: 21
+    weight: 2
     parent: game-a-week
 hero: banner.png
 tags: ["prototype", "pc", "unity", "strategy", "game design", "game development",] 

@@ -8,12 +8,11 @@ menu:
     name: Game Name on sidebar
     identifier: small-caps-snake-name
     weight: 300 # how important this is compared to other posts 
-    # 1-10 important
-    # 11-20 less important
-    # 21 - 100 canceled, hackathons, etc...
+    # 1-10 importance
     parent: articles # parent folder: published, in development, hackathons, exercises, canceled
 hero: banner.jpg
-# genre tags: { 2.5D, 2D, 3D }, { Action, Strategy }, { Turn Based }, Racing, RTS, Shooter
+# genre tags: { 2.5D, 2D, 3D }, { Action, Strategy }, { Turn Based }
+# Racing, RTS, Shooter, Arcade, Puzzle
 # platform tags: mobile, android, IOS, WEB3, VR
 # tech tags: unity, playfab, backend
 # misc tags: indie, AAA

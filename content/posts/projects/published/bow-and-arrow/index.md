@@ -1,6 +1,6 @@
 ---
 title: "Bow & Arrow"
-date: 2017-11-17
+date: 2018-11-17
 description: Are you precise enough with a bow? Come and test your skills! Arcade puzzle game for VR.
 menu:
   sidebar:

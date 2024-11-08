@@ -12,7 +12,7 @@ menu:
   sidebar:
     name: Rules # This defines what would be the name of the document in sidebar file hierarchy
     identifier: game-a-week-rules # this will show in the search bar
-    weight: -1
+    weight: 1
     parent: game-a-week
 tags: ["challenge", "avocation", "game development", "prototype"]
 categories: ["Avocation"]
