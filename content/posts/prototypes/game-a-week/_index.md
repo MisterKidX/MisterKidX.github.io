@@ -4,6 +4,6 @@ menu:
   sidebar:
     name: Game a Week
     identifier: game-a-week
-    parent: misc
-    weight: 10
+    parent: prototypes
+    weight: 3
 ---

@@ -4,6 +4,6 @@ menu:
   sidebar:
     name: Exercises
     identifier: exercises
-    parent: misc
-    weight: 2
+    parent: prototypes
+    weight: 20
 ---

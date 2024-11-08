@@ -22,19 +22,10 @@ buttons:
   filter: "vr"
 - name: Mobile
   filter: "mobile"
-- name: Avocation
-  filter: "avocation"
 
 # your projects
 projects:
 
-- name: "Phanton Beasts"
-  logo: /images/projects/phantomBeastsIcon.png
-  role: Lead Developer
-  timeline: "October 2020 - Februar 2022"
-  url: posts/projects/canceled/phantom-beasts
-  summary: "A 2.5D shooter set in a mysterious city where phantoms roam..."
-  tags: ["game dev", "game design", "unity", "PC", "console", "multiplayer", "indie"]
 
 - name: "Warriors: Rise to Glory"
   logo: /images/projects/wrtg.png
@@ -43,6 +34,14 @@ projects:
   url: posts/projects/published/warriors-rise-to-glory
   summary: "A rouguelite strategy game for PC, taking inspiration from the original Swords & Sandals."
   tags: ["game dev", "unity", "PC", "multiplayer", "indie", "published"]
+
+- name: "Phanton Beasts"
+  logo: /images/projects/phantomBeastsIcon.png
+  role: Lead Developer
+  timeline: "October 2020 - Februar 2022"
+  url: posts/projects/canceled/phantom-beasts
+  summary: "A 2.5D shooter set in a mysterious city where phantoms roam..."
+  tags: ["game dev", "game design", "unity", "PC", "console", "multiplayer", "indie"]
 
 - name: "Summoners Royale"
   logo: /images/projects/summonersRoyale.png
@@ -68,22 +67,6 @@ projects:
   summary: Toddler oriented game I designed for my kids and uploaded to the play store
   tags: ["game design", "game dev", "children", "educational", "unity"]
 
-- name: "Treasure Hunt"
-  logo: /images/projects/treasure-hunt.jpg
-  role: Game Designer | Game Dev
-  timeline: "Jan. 2021"
-  url: /posts/projects/misc/hackathons/treasure-hunt/
-  summary: 1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.
-  tags: ["game design", "game dev", "casual", "avocation", "unity"]
-
-- name: "VoX"
-  logo: /images/projects/vox_logo.jpg
-  role: Game Designer | Game Dev
-  timeline: "February 2018"
-  url: /posts/projects/misc/exercises/vox/
-  summary: A VR racing that doesn't cause nausea :D
-  tags: ["game dev", "unity", "vr"]
-
 - name: "Party Cat"
   logo: /images/projects/partycat_logo.png
   role: Level Designer
@@ -100,14 +83,6 @@ projects:
   summary: hyper casual puzzle game for IOS & Android Devices
   tags: ["game design", "level design", "mobile", "casual"]
 
-- name: "Bow & Arrow"
-  logo: /images/projects/bow-and-arrow_logo.jpg
-  role: Game Designer | Game Dev
-  timeline: "November 2017"
-  url: /posts/projects/published/bow-and-arrow/
-  summary: Are you precise enough with a bow? Come and test your skills! Arcade puzzle game for VR.
-  tags: ["game dev", "unity", "vr"]
-
 - name: Yeti Getaway
   logo: /images/projects/yeti_logo.jpg
   role: Game Designer
@@ -116,14 +91,6 @@ projects:
   summary: Migrated "Yeti Sensation" to Facebook Instant Games.
   tags: ["game design", "facebook", "casual"]
 
-- name: "Neuroderm"
-  logo: /images/projects/neuroderm_logo.jpg
-  role: Game Developer
-  timeline: "October 2018"
-  url: /posts/projects/published/neuroderm/
-  summary: A sweet flappy-bird-like game that informs about the hazards of current Parkinson Medication
-  tags: ["game dev", "unity", "casual"]
-  
 # - name: Test
 #   logo: /images/sections/projects/kubernetes.png
 #   role: Designer

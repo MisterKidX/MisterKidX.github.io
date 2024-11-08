@@ -1,7 +1,7 @@
 ---
 title: GaW - Heroes of Might & Magic
 draft: false
-date: 2024-04-11
+date: 2024-11-03
 description: talk about the game
 menu:
   sidebar:
