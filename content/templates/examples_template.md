@@ -10,9 +10,9 @@ menu:
     weight: 4 # how important this is compared to other posts 
     parent: draft # parent folder: published, in development, hackathons, exercises
 hero: banner.jpg
-# professoin tags: game design, game economy
+# genre tags: { 2.5D, 2D, 3D }, { Action, Strategy }
+# professoin tags: game design, game economy, game dev
 # platform tags: mobile, android, IOS, WEB3
-# genre tags: RTS
 # tech tags: unity
 tags: ["game design", "game economy", "mobile", "android", "unity", "web3", "RTS"] 
 # categories: Game, Project
@@ -83,7 +83,16 @@ Table
 
 </div>
 
-Checklist
+## Three images at the center
+
+<div align="center">
+  <img src="phantom1.png" alt="Phantom Beast Concept Art" style="width: 30%; display: inline-block; margin: 0 auto;" />
+  <img src="phantom2.png" alt="Phantom Beast Concept Art" style="width: 30%; display: inline-block; margin: 0 auto;" />
+  <img src="phantom3.png" alt="Phantom Beast Concept Art" style="width: 30%; display: inline-block; margin: 0 auto;" />
+</div>
+
+
+## Checklist
 
 - [x] Write the press release
 - [ ] Update the website

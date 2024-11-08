@@ -1,9 +1,9 @@
 ---
-title: Misc.
+title: Prototypes
 menu:
   sidebar:
-    name: Misc.
+    name: Prototypes
     identifier: misc
     parent: projects
-    weight: 2
+    weight: 10
 ---

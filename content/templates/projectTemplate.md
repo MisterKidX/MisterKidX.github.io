@@ -1,7 +1,7 @@
 ---
 title: Project Name
 draft: false
-date: 23-12-2022
+date: 2022-12-23
 description: talk about the game
 menu:
   sidebar:
@@ -13,10 +13,11 @@ menu:
     # 21 - 100 canceled, hackathons, etc...
     parent: articles # parent folder: published, in development, hackathons, exercises, canceled
 hero: banner.jpg
-# professoin tags: game design, game economy
+# genre tags: { 2.5D, 2D, 3D }, { Action, Strategy }, { Turn Based }, Racing, RTS, Shooter
 # platform tags: mobile, android, IOS, WEB3, VR
-# genre tags: RTS, Racing, Action, Shooter, 3D, 2D
-# tech tags: unity
+# tech tags: unity, playfab, backend
+# misc tags: indie, AAA
+# role tags: game design, game economy, game dev
 tags: ["game design", "game economy", "mobile", "android", "unity", "web3", "RTS"] 
 # categories: Game, Project
 categories: ["Game", "Project"]
@@ -91,6 +92,7 @@ categories: ["Game", "Project"]
 
 
 ## Overview
+
 descrive the game and the project in more detail
 
 <div align="center">

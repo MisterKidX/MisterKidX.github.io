@@ -85,7 +85,7 @@ Make sure you look for a match with atleast one more player!
 
 ##### Overview
 
-It was SO-MUCH-FUN making this game (excuse the all-caps but I really mean it) in the 2021 Global Game Jam. In just **48** hours (- kids time) we managed, me and my buddy [Gilad](https://gilad.info/), to create this beautiful, simple, fun game. What I love about this design is its simplicity and elegance. A Core mechanic, finding the opponents treasure with radars and nothing more. This core mechanic is so much fun that every other gameplay element that would have been added would just detract from the core experience.
+It was SO-MUCH-FUN making this game (excuse the all-caps but I really mean it) in the 2021 Global Game Jam. In just **48** hours (- kids time) we managed, me and my buddy Gilad, to create this beautiful, simple, fun game. What I love about this design is its simplicity and elegance. A Core mechanic, finding the opponents treasure with radars and nothing more. This core mechanic is so much fun that every other gameplay element that would have been added would just detract from the core experience.
 
 <div align="center">
   <img src="sc1.jpg" alt="" style="width: 40%; display: inline-block; margin: 0 auto;" />
