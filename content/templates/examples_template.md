@@ -19,10 +19,10 @@ tags: ["game design", "game economy", "mobile", "android", "unity", "web3", "RTS
 categories: ["Game", "Project"]
 ---
 
-Video
+## Video
 {{< youtube id="ciAwYjNLh30" autoplay="false" >}}
 
-Button
+## Button
 
 <style>
   .button-link {
@@ -44,7 +44,7 @@ Button
   <a href="https://misterkidx.itch.io/game-a-week-heroes-of-might-and-magic" class="button-link" target="_blank">Play the Prototype</a>
 </p>
 
-Table
+## Table
 
 | Syntax      | Description |
 | ----------- | ----------- |
