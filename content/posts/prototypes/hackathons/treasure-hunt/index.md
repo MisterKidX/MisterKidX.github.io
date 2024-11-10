@@ -83,7 +83,7 @@ Make sure you look for a match with atleast one more player!
 
 <br>
 
-##### Overview
+## Overview
 
 It was SO-MUCH-FUN making this game (excuse the all-caps but I really mean it) in the 2021 Global Game Jam. In just **48** hours (- kids time) we managed, me and my buddy Gilad, to create this beautiful, simple, fun game. What I love about this design is its simplicity and elegance. A Core mechanic, finding the opponents treasure with radars and nothing more. This core mechanic is so much fun that every other gameplay element that would have been added would just detract from the core experience.
 
@@ -92,7 +92,7 @@ It was SO-MUCH-FUN making this game (excuse the all-caps but I really mean it) i
   <img src="sc3.jpg" alt="" style="width: 40%; display: inline-block; margin: 0 auto;" />
 </div>
 
-##### The Game
+## The Game
 
 The gameplay is simple enough for a child, move around using the WASD, hide your treasure in the map and then find the opponents treasure before he gets to yours. The main radar is a circular one that grows bigger as you hold the action button, but there are small radars with small radius that can be placed for a couple location to pinpoint the exact location of the treasure once you're near it. And of course all of this is backed by a countdown timer, so you're racing against the clock as well!
 

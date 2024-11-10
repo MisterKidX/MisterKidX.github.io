@@ -1,6 +1,6 @@
 ---
 title: Project Name
-draft: false
+draft: true
 date: 2022-12-23
 description: talk about the game
 menu:
@@ -13,7 +13,7 @@ menu:
 hero: banner.jpg
 # genre tags: { 2.5D, 2D, 3D }, { Action, Strategy }, { Turn Based } { educational }
 # Racing, RTS, Shooter, Arcade, Puzzle
-# platform tags: mobile, android, IOS, WEB3, VR, facebook
+# platform tags: mobile, android, IOS, WEB3, VR, facebook, physical
 # tech tags: unity, playfab, backend
 # misc tags: indie, AAA
 # role tags: game design, game economy, game dev
