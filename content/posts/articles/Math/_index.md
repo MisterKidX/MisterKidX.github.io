@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Math
 menu:
   sidebar:
@@ -6,4 +6,4 @@ menu:
     identifier: math
     parent: articles
     weight: 15
----
+--- -->
