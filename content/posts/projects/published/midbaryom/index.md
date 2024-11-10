@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Midbaryom 
     identifier: midbaryom
-    weight: 4
+    weight: 5
     parent: published
 hero: banner.jpg
 tags: ["game design", "technical design", "educational"]

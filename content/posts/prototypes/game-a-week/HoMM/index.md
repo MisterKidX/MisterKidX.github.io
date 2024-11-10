@@ -51,7 +51,9 @@ You can watch how I decoded the tilemap into data in the `LevelManager.cs -> Dec
 
 Feel free to visit the [git](https://github.com/MisterKidX/GameAWeek/tree/HeroesOfMightAndMagic) repo and go through the versions, they are all tagged.
 
-### Version 0.1 - Main Menu
+### Main Menu
+
+*Version 0.1*
 
 Being me I started with the most useless part of the game that proves nothing of it - the main menu. This might seem like an odd decision, but when you start a new project the blank paper paralysis looms over and sometimes you just need to start somewhere. It doesn't matter where you start, it only matters that you do.
 
@@ -65,11 +67,16 @@ Core frontend features:
 
 The good thing I got out of this menu is finalizing how I will load game content and use it. For example, the castle dropdown is automatically populated by all designer defined castles. 
 
-![](v0.1-MainManu.gif)
+<div align="center">
+  <img src="v0.1-MainManu.gif" />
+</div>
+<br>
 
 Now that the main menu is done, I needed to confront which system I am going to tackle first. My view on prototypes have never changed - they need to prove gameplay. What is the core in HoMM? In the terms of systems, it's **heroes** and **castles**, occupying a 2D **game map**. When two opposing entities collide, they enter a **battle**. This what makes the game for me.
 
-### Version 0.15 - Basic Heroes & Castles
+### Injecting Heroes & Castles
+
+*Version 0.15*
 
 Perhaps the true name of the game, Heroes & Castles are entities that are the core of HoMM - they drive gameplay, interactions, outcomes and friction. Tackling them first would be the smartest thing to do. While looking fairly simplistic and underwhelming on the frontend quite a lot was done to get the game going - mainly in terms of working with the tilemap system. Now the level designer can place Ground tiles and CastleEntrance Tiles to decide how the level will look. The placed Castle Entrance tiles are read by the level manager who then proceeds to inject a castle with the player's color and a hero. this is the first interaction between the level design and the game's systems, a crucial part for the rest of development.
 
@@ -77,11 +84,12 @@ Core frontend features:
 
 - heroes and castles are shown with the correct color
 
-
-![](v0.15-HeroesAndCastles.png)
+<div align="center">
+  <img src="v0.15-HeroesAndCastles.png" />
+</div>
+<br>
 
 It's maybe a good time to stop and talk about the architecture I was already using.
-
 
 #### Core Architecture - MVI: Model View Instance
 
@@ -95,7 +103,9 @@ I love MVI, and when it comes to systems heavy games I use it whenever I can.
 
 So in the case of our HoMM prorotype, I created different models for heroes and castles. Once the game loads, a new instance of each model is created to represent a live entity in the game. Then the views proceed to showing those instances in the scene.
 
-### Version 0.2 - Hero Movement, Gameplay UI, Interactables & Sequencing \[30:41\]
+### Hero Movement, Gameplay UI, Interactables & Sequencing
+
+*\[30:41\] Version 0.2*
 
 Traversal is important in HoMM, both in combat and in the game world. Positioning of the hero on the map triggers so many other systems, so it needs to be adressed ASAP. Moreover, my [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) and [Dikjstra's](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) were pretty rusty and I needed to tackle that. The interaction between the tilemap system to the game's systems paid off - creating interactables and movement blockers was fairly easy.
 
@@ -110,9 +120,13 @@ Core Frontend Features:
 - sequencing! players can now finish their turn and pass it to the next player
 - gameplay UI - mostly wireframe, but can be used to pass turns and see resources
 
-![](v0.2-HeroMovement.gif)
+<div align="center">
+  <img src="v0.2-HeroMovement.gif" />
+</div>
 
-### Version 0.4 - Castles & Units \[19:27\]
+### Castles & Units
+
+ *\[19:27\] Version 0.4* 
 
 I spent 9 hours building the castle view and the player's interaction with it. There's a lot of UI here, and the player can interact with her units populating the units bar. This version crossed the 50% mark. but I was hopeful. I knew a lot of my time went on designing systems rather than implementing content. I knew that even 5 hours would be enough to make the demo level somewhat playable. As long as the systems are constructed, everything else will fall into place.
 
@@ -133,7 +147,9 @@ Core frontend features:
     <img src="v4_3.png" style="width: 300px; height: auto;">
 </div>
 
-### Version 0.85 - Combat & Neutrals \[08:19\]
+### Combat & Neutrals
+
+*\[08:19\] Version 0.85*
 
 Combat was a big one. I even stayed true to original game by making the grid hexagonal, which in turn pushed me into revising another A* algorithm. Seemingly a simple change in neighbors, my A* was tightly coupled to the world traversal grid, and the new A* needed to read the combat map (this is obviously a design flaw, see my comments on this [below](#if-this-was-production)).
 
@@ -145,9 +161,13 @@ Core Frontend Features:
 - combat has outcomes screen
 - heroes can enter combat with each other
 
-![](v85_combat.gif)
+<div align="center">
+  <img src="v85_combat.gif" />
+</div>
 
-### Version 1.2 - Content & Game Loop \[-00:41\]
+### Content & Game Loop
+
+*\[-00:41\] Version 1.2*
 
 Unlike most programmers think, a game is not only its systems, its also the sheer breadth of content and gameplay design that goes into it. Given the last version state, the prototype could barely be called a game, it was a proof that the mechanics work, but not that they are coherent enough to be fun. But thanks to the extended time I worked on the systems, creating content was fast. At least on the technical side, being creative after 40+ hrs of work is another issue.
 
@@ -163,7 +183,9 @@ Core Frontend Features:
 
 ![](v1.2_content.png)
 
-### Version 1.4f - Game Feel \[-10:00\]
+### Game Feel
+
+*\[-10:00\] Version 1.4f*
 
 A game is nothing without polish, and although this is a prototype, I felt the dire need to polish it up. Simply adding music changed everything.
 
@@ -208,10 +230,6 @@ Oh boy. The only thing I would've done is keep MVI, and still I would build it p
 - The A* algorithm should be indifferent to the game's intent. Honestly, it's an algorithm that you should take with you to other projects. Moreover, I don't think A* is especially needed here, Dijkstra's shortest path would do better. I would consider using [Greedy Best First Search](https://en.wikipedia.org/wiki/Best-first_search) for checking if movement is even possible on the game map. I would use [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search) for finding available to walk combat tiles. Since this is a turn based game, I didn't find A* very useful.
 - I would reconsider using Unity's tilemap. While being very handy for artists, I found it less convenient as a developer. I would also consider using a level editor to allow player created maps and to streamline the level creation for level designers.
 
-### Extending
-
-While the code is a shitshow, extending the content (not the mechanics) of the game is rather easy. This includes: new heroes, castles, units, neutrals, ground tiles, resources and interactables. Watch the video below to get a sense of it.
-
 ### Hours
 
 Hour Summary
@@ -220,6 +238,65 @@ Hour Summary
 * Core - 50 hrs.
 * Extra Fluff - 10 hrs.
 * Publishing -  1 hr.
+
+## Extending
+
+While the code is a shitshow, extending the content (not the mechanics) of the game is rather easy. This includes: new heroes, castles, units, neutrals, ground tiles, resources and interactables.
+
+##### Setting the General configuration
+
+Locate the Config Scriptable Object Under Resrouces >> Structural >> Config. You can use the config to set global variables as well as set the initial resources of the players.
+
+<div align="center">
+  <img src="tutorial_settings.gif" alt="" style="width: 66%; display: inline-block; margin: 0 auto;" />
+</div>
+
+##### Painting On The Right Layers
+
+Pay attention! There are three distinct tilemaps each has its own uses.
+
+1. The Ground tilemap is for ground tiles only (although placing blockers should also work just fine).
+2. The Placements layer is for blockers (such as trees) and interactables, such as mines, resource piles and more.
+3. The metadata layer is for special objects which the `LevelManager` compiles into the appropriate runtime objects. Units need to be placed on the metadata layer. Castle Entrances as well (place castle entrances per playing players)
+
+##### Adding Ground Tiles
+
+To add ground tiles, simply right click on a directory in your project and go to through the menu Create >> Tiles >> Ground. Set these parameters as you wish
+
+1. Sprite - choose how the tile looks. If the tile looks very small or very big on the map, simply change the sprites' Pixels Per Unit property in its import settings
+2. Tile Type - set it to ground
+3. Movement Cost - set the movement cost of the ground tile. A lower movement cost means the hero can move further with that tile. The pathfinding algorithm will use the movement cost to navigate player heroes.
+4. Groud Traversable - set to true if you want the ground tile to be traversable. Set to false otherwise.
+
+To add your tiles to a pallete, simply drag the created Tile Object to the Tile Pallete window.
+
+##### Adding blockers
+
+Simple. Use the previous section to guide you, but set Ground Travesable to false. Make sure you paint blockers on the Placements tilemap.
+
+##### Adding Mines
+
+Like adding Ground tiles, but choose to create a MineTile. Set the tile type to Aquirable and choose a resource that the mine produces.
+
+##### Adding Resource Pickups
+
+To add resource pickups, choose Resource Pickup Tile from the create menu. Set the desired amount, choose a resource that will add to the player's economy and select a pickup SFX.
+
+##### Adding Castles and Units
+
+A bit trickier but still quite easy. 
+
+Go to Resources >> PlayableTowns and duplicate one of the existing towns.
+
+To create a unique town, go through the folder structure and do the following:
+
+1. Go to the Units folder and create your unique units by playing around with the parameters
+2. Create a unique respresentation for that unit (i.e. View) by duplicating one of the existing views and changing its sprites. I recommend using the SPUN units (ThirdPartyAssets). Make sure all fields in the Unit Combat View are set properly after applying your changes.
+3. Create unique heroes in the heroes folder. Set their movement speed and protrait and modify the HeroView in the folder (like you did with your units). Make sure to set the `P_View` field to the one in the folder.
+4. Go to the buildings folder and set their properties according to your needs. Use the `Upgrade` proerpty to set reference to another building which is the upgrade of the current one.
+5. To change how the castle looks from the *Castle View*, edit the CastleView prefab in the folder. Under UIView_Castle->Scene change all the elements to suit your needs.
+6. To change how the castle looks in the game's World View, edit the TraversalCastleView inside the folder
+7. Finally, edit the Castle Model Scriptable Object at the root of the folder. This is to make sure all your changes apply and the new castle is created. **Delete** all of the existing references and set them to the objects inside the folder structure.
 
 ## Links
 
