@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: "Warriors: Rise to Glory"
     identifier: wrtg
-    weight: 5
+    weight: 4
     parent: published
 hero: wrtg_logo_big.png
 tags: ["rouguelite", "turn based", "RPG", "PC", "unity", "playfab", "backend", "indie"]
