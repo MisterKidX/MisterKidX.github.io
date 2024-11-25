@@ -1,6 +1,6 @@
 ---
 title: What is a game
-date: 23-12-2022
+date: 2022-12-12
 description: talk about the game
 draft: true
 menu:

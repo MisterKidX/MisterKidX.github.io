@@ -20,7 +20,7 @@ categories: ["Game", "Project"]
 The game includes 7 scenes with 26 interactable animals and objects. The game's input is intuitive and designed specifically for toddlers - only swipe left or right. No cumbersome UI that children can missclick.
 
 <center>
-{{< img src="1.jpg" width="350">}}
+{{< img src="1.jpg" width="350" >}}
 {{< img src="2.jpg" width="350" >}}
 </center>
 
