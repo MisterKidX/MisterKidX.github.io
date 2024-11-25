@@ -1,31 +1,17 @@
 ---
 title: Backgammon Live
-draft: true
+draft: false
 description: 
 menu:
   sidebar:
     name: Backgammon Live
     identifier: backgammon-live
-    weight: 7
+    weight: 5
     parent: projects
 hero: 
-tags: ["game dev", "game jam", "unity", "educational"]
-categories: ["Game", "Ed Game"]
+tags: ["classic", "abstract", "mobile", "ios", "android", "unity", "developer"]
+categories: ["Game", "Project"]
 ---
 
-
-##### PLATFORM
-MOBILE
-
-##### ROLE
-Unity Developer
-
-##### GENRE
-Casual | Calssical Games
-
-##### STATUS
-Published
-
-##### PUBLISHER
 
 {{< youtube height="500" width="500" id="_piqCBe_biY" autoplay="true" >}}

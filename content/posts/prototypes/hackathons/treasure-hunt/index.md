@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Treasure Hunt 
     identifier: treasure-hunt
-    weight: 35
+    weight: 1
     parent: hackathons
 hero: banner.gif
 tags: ["casual", "unity", "game jam", "webgl", "game design", "game dev"]
