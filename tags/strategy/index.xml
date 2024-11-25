@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>strategy on Dor Ben Dor</title><link>https://www.dorbendor.com/tags/strategy/</link><description>Recent content in strategy on Dor Ben Dor</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dorbendor.com/tags/strategy/index.xml" rel="self" type="application/rss+xml"/><item><title>GaW - Heroes of Might &amp; Magic</title><link>https://www.dorbendor.com/posts/prototypes/game-a-week/homm/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/prototypes/game-a-week/homm/</guid><description>Heroes of Might &amp;amp; Magic III is one of my all time favourite games. It proposes 4 core systesms (heroes, castles, exploration and combat) each feeding each other to create a hollistic and compelling gameplay. Trying to imitate it in one week was both challenging and incredibly fun.
-.button-link { background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px; } .button-link:hover { background-color: #005f6b; } Play the Prototype Tech Stack Unity 6.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strategy on Dor Ben Dor</title><link>https://www.dorbendor.com/tags/strategy/</link><description>Recent content in Strategy on Dor Ben Dor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dorbendor.com/tags/strategy/index.xml" rel="self" type="application/rss+xml"/><item><title>GaW - Heroes of Might &amp; Magic</title><link>https://www.dorbendor.com/posts/prototypes/game-a-week/homm/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/prototypes/game-a-week/homm/</guid><description>&lt;p>Heroes of Might &amp;amp; Magic III is one of my all time favourite games. It proposes 4 core systesms (heroes, castles, exploration and combat) each feeding each other to create a hollistic and compelling gameplay. Trying to imitate it in one week was both challenging and incredibly fun.&lt;/p>
+&lt;style>
+.button-link {
+background-color: #008CBA;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 5px;
+}
+.button-link:hover {
+background-color: #005f6b;
+}
+&lt;/style>
+&lt;p style="font-size: 36px; text-align: center;">
+&lt;a href="https://misterkidx.itch.io/game-a-week-heroes-of-might-and-magic" class="button-link" target="_blank">Play the Prototype&lt;/a>
+&lt;/p></description></item></channel></rss>

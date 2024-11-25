@@ -1,1 +1,228 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>casual on Dor Ben Dor</title><link>https://www.dorbendor.com/tags/casual/</link><description>Recent content in casual on Dor Ben Dor</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dorbendor.com/tags/casual/index.xml" rel="self" type="application/rss+xml"/><item><title>Treasure Hunt</title><link>https://www.dorbendor.com/posts/prototypes/hackathons/treasure-hunt/</link><pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/prototypes/hackathons/treasure-hunt/</guid><description>1v1 multiplayer game in which each player hides his treasure, and tries to find his opponents. /* Basic styling for readability */ table { width: 90%; margin: 20px auto; border-collapse: collapse; font-family: Arial, sans-serif; } th, td { padding: 12px 15px; text-align: center; border: 1px solid #ddd; } th { background-color: #add8e6; /* Light blue color */ font-weight: bold; } tr:nth-child(even) { background-color: #f9f9f9; } .</description></item><item><title>Neuroderm</title><link>https://www.dorbendor.com/posts/projects/published/neuroderm/</link><pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/neuroderm/</guid><description>Make your way through obstacles and learn a couple of things while at it! /* Basic styling for readability */ table { width: 90%; margin: 20px auto; border-collapse: collapse; font-family: Arial, sans-serif; } th, td { padding: 12px 15px; text-align: center; border: 1px solid #ddd; } th { background-color: #add8e6; /* Light blue color */ font-weight: bold; } tr:nth-child(even) { background-color: #f9f9f9; } .button-link { background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px; } .</description></item><item><title>Color Maze</title><link>https://www.dorbendor.com/posts/projects/published/colormaze/</link><pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/colormaze/</guid><description>Swipe! Swipe! Swipe to fill the screen with bright colors! /* Basic styling for readability */ table { width: 90%; margin: 20px auto; border-collapse: collapse; font-family: Arial, sans-serif; } th, td { padding: 12px 15px; text-align: center; border: 1px solid #ddd; } th { background-color: #add8e6; /* Light blue color */ font-weight: bold; } tr:nth-child(even) { background-color: #f9f9f9; } .button-link { background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px; } .</description></item><item><title>Yeti Getaway</title><link>https://www.dorbendor.com/posts/projects/published/yeti-getaway/</link><pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/yeti-getaway/</guid><description>Avoid being caught! Swipe your Yeti to avoid obstacles and collect powerups, and don’t forget to eat them apples! /* Basic styling for readability */ table { width: 90%; margin: 20px auto; border-collapse: collapse; font-family: Arial, sans-serif; } th, td { padding: 12px 15px; text-align: center; border: 1px solid #ddd; } th { background-color: #add8e6; /* Light blue color */ font-weight: bold; } tr:nth-child(even) { background-color: #f9f9f9; } .</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Casual on Dor Ben Dor</title><link>https://www.dorbendor.com/tags/casual/</link><description>Recent content in Casual on Dor Ben Dor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dorbendor.com/tags/casual/index.xml" rel="self" type="application/rss+xml"/><item><title>Treasure Hunt</title><link>https://www.dorbendor.com/posts/prototypes/hackathons/treasure-hunt/</link><pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/prototypes/hackathons/treasure-hunt/</guid><description>&lt;center> &lt;i> 1v1 multiplayer game in which each player hides his treasure, and tries to find his opponents. &lt;/i> &lt;/center>
+&lt;div align="center" style="width: 100%">
+&lt;style>
+/* Basic styling for readability */
+table {
+width: 90%;
+margin: 20px auto;
+border-collapse: collapse;
+font-family: Arial, sans-serif;
+}
+th, td {
+padding: 12px 15px;
+text-align: center;
+border: 1px solid #ddd;
+}
+th {
+background-color: #add8e6; /* Light blue color */
+font-weight: bold;
+}
+tr:nth-child(even) {
+background-color: #f9f9f9;
+}
+.button-link {
+background-color: #008CBA;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 5px;
+}
+.button-link:hover {
+background-color: #005f6b;
+}
+&lt;/style>
+&lt;table>
+&lt;tr>
+&lt;th>Genre&lt;/th>
+&lt;th>Tech Stack&lt;/th>
+&lt;th>Platform&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;th>Status&lt;/th>
+&lt;th>Part of&lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td>Casual&lt;/td>
+&lt;td>Unity, PlayFab&lt;/td>
+&lt;td>PC, WebGL&lt;/td>
+&lt;td>Game Designer, Unity Developer&lt;/td>
+&lt;td>Completed&lt;/td>
+&lt;td>&lt;a href="https://v3.globalgamejam.org/2021/games/find-treasure-3" target="_blank">GGJ 2021&lt;a>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;br>
+&lt;/div>
+&lt;p style="font-size: 36px; text-align: center;">
+&lt;a href="https://misterkidx.itch.io/treasure-hunt" class="button-link" target="_blank">Play the Game&lt;/a>
+&lt;/p></description></item><item><title>Neuroderm</title><link>https://www.dorbendor.com/posts/projects/published/neuroderm/</link><pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/neuroderm/</guid><description>&lt;center> &lt;i> Make your way through obstacles and learn a couple of things while at it! &lt;/i> &lt;/center>
+&lt;div align="center" style="width: 100%">
+&lt;style>
+/* Basic styling for readability */
+table {
+width: 90%;
+margin: 20px auto;
+border-collapse: collapse;
+font-family: Arial, sans-serif;
+}
+th, td {
+padding: 12px 15px;
+text-align: center;
+border: 1px solid #ddd;
+}
+th {
+background-color: #add8e6; /* Light blue color */
+font-weight: bold;
+}
+tr:nth-child(even) {
+background-color: #f9f9f9;
+}
+.button-link {
+background-color: #008CBA;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 5px;
+}
+.button-link:hover {
+background-color: #005f6b;
+}
+&lt;/style>
+&lt;table>
+&lt;tr>
+&lt;th>Genre&lt;/th>
+&lt;th>Tech Stack&lt;/th>
+&lt;th>Platform&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;th>Status&lt;/th>
+&lt;th>Client&lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td>Casual&lt;/td>
+&lt;td>Unity, C#&lt;/td>
+&lt;td>PC, Touch Screens&lt;/td>
+&lt;td>Sole Developer&lt;/td>
+&lt;td>Completed&lt;/td>
+&lt;td>&lt;a href="https://neuroderm.com/" target="_blank">Neuroderm&lt;a>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;br>
+&lt;/div>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>This flappy bird look-a-like is teaching us about the problems of current Parkinson medication and how they might be solved. The real pride of this project on my side, beyond the tight schedule, is the music and SFX that I composed 🙂. The game was developed over a 24 hour preriod!&lt;/p></description></item><item><title>Color Maze</title><link>https://www.dorbendor.com/posts/projects/published/colormaze/</link><pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/colormaze/</guid><description>&lt;center> &lt;i> Swipe! Swipe! Swipe to fill the screen with bright colors! &lt;/i> &lt;/center>
+&lt;div align="center" style="width: 100%">
+&lt;style>
+/* Basic styling for readability */
+table {
+width: 90%;
+margin: 20px auto;
+border-collapse: collapse;
+font-family: Arial, sans-serif;
+}
+th, td {
+padding: 12px 15px;
+text-align: center;
+border: 1px solid #ddd;
+}
+th {
+background-color: #add8e6; /* Light blue color */
+font-weight: bold;
+}
+tr:nth-child(even) {
+background-color: #f9f9f9;
+}
+.button-link {
+background-color: #008CBA;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 5px;
+}
+.button-link:hover {
+background-color: #005f6b;
+}
+&lt;/style>
+&lt;table>
+&lt;tr>
+&lt;th>Genre&lt;/th>
+&lt;th>Platform&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;th>Status&lt;/th>
+&lt;th>Client&lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hyper Casual, Puzzle&lt;/td>
+&lt;td>Mobile (Android &amp; IOS)&lt;/td>
+&lt;td>Level Designer&lt;/td>
+&lt;td>Published&lt;/td>
+&lt;td>&lt;a href="https://play.google.com/store/apps/dev?id=6901802119894113806&amp;hl=en-US&amp;pli=1" target="_blank">Ouzo (Closed)&lt;a>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;br>
+&lt;/div>
+&lt;p style="font-size: 36px; text-align: center;">
+&lt;a href="https://play.google.com/store/apps/details?id=games.ouzo.colormaze" class="button-link" target="_blank">Play the Game&lt;/a>
+&lt;/p></description></item><item><title>Yeti Getaway</title><link>https://www.dorbendor.com/posts/projects/published/yeti-getaway/</link><pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/yeti-getaway/</guid><description>&lt;center> &lt;i> Avoid being caught! Swipe your Yeti to avoid obstacles and collect powerups, and don’t forget to eat them apples! &lt;/i> &lt;/center>
+&lt;div align="center" style="width: 100%">
+&lt;style>
+/* Basic styling for readability */
+table {
+width: 90%;
+margin: 20px auto;
+border-collapse: collapse;
+font-family: Arial, sans-serif;
+}
+th, td {
+padding: 12px 15px;
+text-align: center;
+border: 1px solid #ddd;
+}
+th {
+background-color: #add8e6; /* Light blue color */
+font-weight: bold;
+}
+tr:nth-child(even) {
+background-color: #f9f9f9;
+}
+.button-link {
+background-color: #008CBA;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 5px;
+}
+.button-link:hover {
+background-color: #005f6b;
+}
+&lt;/style>
+&lt;table>
+&lt;tr>
+&lt;th>Genre&lt;/th>
+&lt;th>Platform&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;th>Status&lt;/th>
+&lt;th>Client&lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td>Endless Runner, Casual&lt;/td>
+&lt;td>Facebook Instance Games (FIG), Smart TVs&lt;/td>
+&lt;td>Game Designer&lt;/td>
+&lt;td>Published&lt;/td>
+&lt;td>&lt;a href="https://play.works/" target="_blank">PLAY.WORKS&lt;a>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;br>
+&lt;/div>
+&lt;p style="font-size: 36px; text-align: center;">
+&lt;a href="https://play.works/news/playworks-launches-yeti-getaway-on-facebook-instant-games-" class="button-link" target="_blank">See the Game&lt;/a>
+&lt;/p></description></item></channel></rss>
