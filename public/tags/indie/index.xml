@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indie on Dor Ben Dor</title>
+    <link>http://localhost:1313/tags/indie/</link>
+    <description>Recent content in Indie on Dor Ben Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/indie/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Phantom Beasts</title>
+      <link>http://localhost:1313/posts/projects/canceled/phantom-beasts/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/canceled/phantom-beasts/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Unleash your inner beast and shoot your way through a dystopian city in this deadly 2.5D side scroller. Gun down your enemies and use your phantoms to get out of tough situations. &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 80%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+      .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Action, Shooter, 2.5D&lt;/td&gt;
+    &lt;td&gt;Unity, C#, Multiplayer&lt;/td&gt;
+    &lt;td&gt;PC&lt;/td&gt;
+    &lt;td&gt;Lead Developer &amp; Shareholder&lt;/td&gt;
+    &lt;td&gt;Canceled&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://www.phantombeasts.studio/&#34; target=&#34;_blank&#34;&gt;Ready Steady Games&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Warriors: Rise To Glory</title>
+      <link>http://localhost:1313/posts/projects/published/warriors-rise-to-glory/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/warriors-rise-to-glory/</guid>
+      <description>&lt;center&gt; &lt;i&gt; In this rogue-lite turn-based RPG, you create a bloodline of gladiators, fight online with or against your friends in the arena, decide the fate of your fallen rivals, and bring honor, wealth, and the spoils of war to improve your legacy. &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2.5D, Rouguelite, Turn-Based, RPG&lt;/td&gt;
+    &lt;td&gt;Unity, PlayFab, Photon, Javascript, C#&lt;/td&gt;
+    &lt;td&gt;PC&lt;/td&gt;
+    &lt;td&gt;Developer&lt;/td&gt;
+    &lt;td&gt;Published&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://store.steampowered.com/developer/GavraGames&#34; target=&#34;_blank&#34;&gt;Gavra Games&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://github.com/users/MisterKidX/projects/2/views/3&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>
