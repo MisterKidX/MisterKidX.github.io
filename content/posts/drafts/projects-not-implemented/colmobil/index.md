@@ -43,8 +43,6 @@ Published
 
 ##### Overview
 Summoners Royale is truly a fascinating project. Resurrected from the dead (previously known as [United Legends](https://www.youtube.com/watch?v=hf4vi8IQMIc&ab_channel=Nz0x)), Summoners Royale made deep impactful changes to its design to create a new gameplay expreince that could match the spirit of the company that produces it and to become a unique skill based game set against the agressive models of the web3 gaming. My Job as a Game Economist, what to help define how the economy will behave and how several unique audiences - Web2 player, web3 players, investors -  could participate in it fairly and have fun engaging with it.
-<br> <br>
-{{< img src="pBanner.jpg" align="center" height="400" >}}
 
 ##### Gameplay
 In Summoners Royale, the players controls a number of summmoners that can invoke the aid of famous history characters such as David and Cleopatra. The player can construct his special lineup according to his playstyle and tactical needs. Summoners Royale has a small progression in the meta, but other than that it is completely skill depedant. No player can but his victory.

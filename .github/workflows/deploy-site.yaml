@@ -1,37 +1,47 @@
 name: Deploy to Github Pages
-
-# run when a commit is pushed to "source" branch
 on:
   push:
     branches:
     - source
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    # checkout to the commit that has been pushed
     - uses: actions/checkout@v2
       with:
-        submodules: true  # Fetch Hugo themes (true OR recursive)
-        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-        lfs: true # fetch LFS
+        submodules: true
+        fetch-depth: 0
+        lfs: true
     
-    # install Hugo
+    # Setup Node.js environment
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    # Install Hugo
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.77.0'
+        hugo-version: '0.139.2'
         extended: true
-
-    # build website
+    
+    # Install npm dependencies
+    - name: Install npm dependencies
+      run: npm install
+    
+    # Build Hugo site
     - name: Build
       run: hugo --minify
-
-    # push the generated content into the `main` (former `master`) branch.
+      env:
+        HUGO_ENVIRONMENT: production
+    
+    # Deploy to GitHub Pages
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: main # if your main branch is `master` use that here.
+        publish_branch: main
         publish_dir: ./public
+        cname: ${{ secrets.CNAME }}

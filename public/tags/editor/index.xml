@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editor on Dor Ben Dor</title>
+    <link>http://localhost:1313/tags/editor/</link>
+    <description>Recent content in Editor on Dor Ben Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/editor/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Scriptable Holders</title>
+      <link>http://localhost:1313/posts/articles/unity/scriptableholders/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/unity/scriptableholders/</guid>
+      <description>&lt;h3 id=&#34;preface&#34;&gt;Preface&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.unity3d.com/Manual/class-ScriptableObject.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scriptable Objects&lt;/a&gt; (SOs) are awesome. It&amp;rsquo;s been said before, it will be said in the future and currently, many Unity devs use them to architect their code and write great games. But (you knew this was coming), they are still a tight coupling to the unity engine - Scriptable Objects only make sense inside the unity framework. I noticed most Unity devs don&amp;rsquo;t give a f*** about this, but I do give plenty. To avoid my rant about how writing C# in Unity is like driving a Bugatti at 10 MPH on the freeway I&amp;rsquo;ll just say that I like to write &lt;a href=&#34;https://en.wikipedia.org/wiki/Plain_old_CLR_object&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plain Old C# Objects&lt;/a&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=yg8116aeD7E&amp;amp;ab_channel=DisneyMusicVEVO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POCOS&lt;/a&gt;) and that writing code that is not tightly coupled to a specific framework is generally a good thing.&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

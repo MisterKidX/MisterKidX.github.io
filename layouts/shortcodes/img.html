@@ -1,0 +1,6 @@
+<figure>
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="{{ .Get "class" }}">
+    {{ if .IsNamedParams }}
+    <figcaption>{{ .Get "caption" }}</figcaption>
+    {{ end }}
+</figure>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzle on Dor Ben Dor</title>
+    <link>http://localhost:1313/tags/puzzle/</link>
+    <description>Recent content in Puzzle on Dor Ben Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/puzzle/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Brainiac</title>
+      <link>http://localhost:1313/posts/projects/published/brainiac/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/brainiac/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Better! Faster! Smarter! Brainiac is a powerful tool for your mind and a pleasing one for your soul. &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Educational, Puzzle&lt;/td&gt;
+    &lt;td&gt;HackNplan, Propietry Engine&lt;/td&gt;
+    &lt;td&gt;Facebook Instant Games&lt;/td&gt;
+    &lt;td&gt;Producer &amp; Game Designer&lt;/td&gt;
+    &lt;td&gt;Published (Taken down in Dec-2021)&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://play.works/&#34; target=&#34;_blank&#34;&gt;PLAY.WORKS&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Game was Shelved&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bow &amp; Arrow</title>
+      <link>http://localhost:1313/posts/projects/published/bow-and-arrow/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/bow-and-arrow/</guid>
+      <description>&lt;center&gt; &lt;i&gt; “Hear ye! Hear ye! The king is looking for the best archer in the land! Are you up for a challenge of Bow &amp; Arrow? &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Employer&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Arcade, Puzzle&lt;/td&gt;
+    &lt;td&gt;Unity, C#, SteamVR&lt;/td&gt;
+    &lt;td&gt;VR&lt;/td&gt;
+    &lt;td&gt;Sole Developer &amp; Designer&lt;/td&gt;
+    &lt;td&gt;Sold (Private Buyer)&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://www.kubiyax.com/&#34; target=&#34;_blank&#34;&gt;Kubiyax&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Bow &amp;amp; Arrow is a fairly simple game. As I remember 2017, it was the dawn of VR games. Not that weren&amp;rsquo;t made before, but mechanics and dynamics still haven&amp;rsquo;t been fully explored. Many VR arcades looked for a cutting edge, propietry games that players could play only in that specific arcade. Bow &amp;amp; Arrow was one of those games.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Party Cat</title>
+      <link>http://localhost:1313/posts/projects/published/party-cat/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/party-cat/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Swipe your way around the house and clean it all up! &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Hyper Casual, Puzzle&lt;/td&gt;
+    &lt;td&gt;Mobile (IOS)&lt;/td&gt;
+    &lt;td&gt;Level Designer&lt;/td&gt;
+    &lt;td&gt;Published (Removed From Store)&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://play.google.com/store/apps/dev?id=6901802119894113806&amp;hl=en-US&#34; target=&#34;_blank&#34;&gt;Ouzo&lt;a&gt; (Closed)&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://iphone.apkpure.com/app/party-cat/games.ouzo.catvac&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Color Maze</title>
+      <link>http://localhost:1313/posts/projects/published/colormaze/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/colormaze/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Swipe! Swipe! Swipe to fill the screen with bright colors! &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Hyper Casual, Puzzle&lt;/td&gt;
+    &lt;td&gt;Mobile (Android &amp; IOS)&lt;/td&gt;
+    &lt;td&gt;Level Designer&lt;/td&gt;
+    &lt;td&gt;Published&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://play.google.com/store/apps/dev?id=6901802119894113806&amp;hl=en-US&amp;pli=1&#34; target=&#34;_blank&#34;&gt;Ouzo (Closed)&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://play.google.com/store/apps/details?id=games.ouzo.colormaze&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

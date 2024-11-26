@@ -1,7 +1,7 @@
 ---
 title: Project Name
 draft: true
-date: 23-12-2022
+date: 2025-01-01
 description: talk about the game
 menu:
   sidebar:
