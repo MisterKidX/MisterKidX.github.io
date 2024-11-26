@@ -31,10 +31,6 @@ jobs:
     - name: Install npm dependencies
       run: npm install
     
-    # Build CSS assets
-    - name: Build CSS assets
-      run: npm run build
-    
     # Build Hugo site
     - name: Build
       run: hugo --minify
