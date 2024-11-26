@@ -1,12 +1,12 @@
 ---
-title: Unity Packager
+title: Unity Coding Toolset
 draft: false
-date: 2021-11-26
-description: a lightweight solution for creating unity packages based on the openUPM model
+date: 2023-06-01
+description: snippets of code, tools and utilities to make life easier for unity developers.
 menu:
   sidebar:
-    name: Unity Packager
-    identifier: unity-packager
+    name: Unity Coding Toolset
+    identifier: unity-coding-toolset
     weight: 5 # how important this is compared to other posts 
     # 1-10 importance
     parent: packages
@@ -16,7 +16,7 @@ tags: ["game dev", "unity", "DevOps"]
 categories: ["Packages"]
 ---
 
-<center> <i> A lightweight package allowing developers to quickly create packages that are easily imported into any unity project. </i> </center>
+<center> <i> A lightweight package that encompasses small utilities, tools and code - all too small to deserve a package of their own. </i> </center>
 
 <div align="center" style="width: 100%">
 
@@ -64,11 +64,11 @@ categories: ["Packages"]
     <th>Status</th>
   </tr>
   <tr>
-    <td>git</td>
-    <td>C#, <a href="https://openupm.com/" target="_blank">openUPM<a></td>
+    <td>git repo</td>
+    <td>C#</td>
     <td>Unity</td>
     <td>Creator</td>
-    <td><a href="https://github.com/MisterKidX/UnityPackager" target="_blank">Production<a></td>
+    <td><a href="https://github.com/MisterKidX/UnityCodingToolset" target="_blank">Production<a></td>
   </tr>
 </table>
 
@@ -76,13 +76,14 @@ categories: ["Packages"]
 </div>
 
 <p style="font-size: 36px; text-align: center;">
-  <a href="https://github.com/MisterKidX/UnityPackager" class="button-link" target="_blank">Use the Package</a>
+  <a href="https://github.com/MisterKidX/UnityCodingToolset" class="button-link" target="_blank">Use the Package</a>
 </p>
 
 <br>
 
-Easily create importable packages for unity with this lightweight git package. UnityPackager not only brings you a structure of easily creating upm packages, it also enforces validation and improves user experience by using type safe values and custom logic. This is what UnityPackager can do for you:
-- easily create packages for you future projects
-- get a ready-made package with comments noting the different aspects and features of a package (like samples)
-- documentation on creating a package and enhancing it with different features
-- best practice guide
+Unity Coding Toolset is a great repo for small tools and utilities. This repo is contantly updated and tested, and it is driven by development needs. The package includes, but not limited to:
+- [Scriptable Holders](https://www.dorbendor.com/posts/articles/unity/scriptableholders/)
+- simple helpful shaders
+- Event mediation
+- useful custom types, like Direction struct
+- editor tools
