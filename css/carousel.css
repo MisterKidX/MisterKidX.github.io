@@ -1,0 +1,34 @@
+/* Ensure the container of the carousel is centered and has a fixed width */
+.carousel-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  padding: 20px 0;
+}
+
+/* The carousel itself */
+.carousel {
+  display: flex;
+  gap: 20px;
+  width: 5440px; /* This ensures both sets of images are in view  (num of pics) * (gap + img width) * 2*/
+  animation: scroll 35s linear infinite; /* Continuous scrolling animation */
+}
+
+/* Style the individual images */
+.carousel img {
+  width: 150px;  /* Set the width for the logo images */
+  height: 100px; /* Set the height for the logo images */
+  object-fit: contain; /* Ensures the image maintains its aspect ratio */
+  flex-shrink: 0; /* Prevent images from shrinking */
+}
+
+/* Keyframes to animate the scrolling effect */
+@keyframes scroll {
+  0% {
+    transform: translateX(0); /* Starting position */
+  }
+  100% {
+    transform: translateX(-3240px); /* Scroll images by 50% of the container width */
+  }
+}
