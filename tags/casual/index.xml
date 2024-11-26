@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Casual on Dor Ben Dor</title><link>https://www.dorbendor.com/tags/casual/</link><description>Recent content in Casual on Dor Ben Dor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dorbendor.com/tags/casual/index.xml" rel="self" type="application/rss+xml"/><item><title>Treasure Hunt</title><link>https://www.dorbendor.com/posts/prototypes/hackathons/treasure-hunt/</link><pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/prototypes/hackathons/treasure-hunt/</guid><description>&lt;center> &lt;i> 1v1 multiplayer game in which each player hides his treasure, and tries to find his opponents. &lt;/i> &lt;/center>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Casual on Dor Ben Dor</title><link>https://MisterKidX.github.io/tags/casual/</link><description>Recent content in Casual on Dor Ben Dor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://MisterKidX.github.io/tags/casual/index.xml" rel="self" type="application/rss+xml"/><item><title>Treasure Hunt</title><link>https://MisterKidX.github.io/posts/prototypes/hackathons/treasure-hunt/</link><pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate><guid>https://MisterKidX.github.io/posts/prototypes/hackathons/treasure-hunt/</guid><description>&lt;center> &lt;i> 1v1 multiplayer game in which each player hides his treasure, and tries to find his opponents. &lt;/i> &lt;/center>
 &lt;div align="center" style="width: 100%">
 &lt;style>
 /* Basic styling for readability */
@@ -56,7 +56,7 @@ background-color: #005f6b;
 &lt;/div>
 &lt;p style="font-size: 36px; text-align: center;">
 &lt;a href="https://misterkidx.itch.io/treasure-hunt" class="button-link" target="_blank">Play the Game&lt;/a>
-&lt;/p></description></item><item><title>Neuroderm</title><link>https://www.dorbendor.com/posts/projects/published/neuroderm/</link><pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/neuroderm/</guid><description>&lt;center> &lt;i> Make your way through obstacles and learn a couple of things while at it! &lt;/i> &lt;/center>
+&lt;/p></description></item><item><title>Neuroderm</title><link>https://MisterKidX.github.io/posts/projects/published/neuroderm/</link><pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate><guid>https://MisterKidX.github.io/posts/projects/published/neuroderm/</guid><description>&lt;center> &lt;i> Make your way through obstacles and learn a couple of things while at it! &lt;/i> &lt;/center>
 &lt;div align="center" style="width: 100%">
 &lt;style>
 /* Basic styling for readability */
@@ -113,7 +113,7 @@ background-color: #005f6b;
 &lt;br>
 &lt;/div>
 &lt;h2 id="overview">Overview&lt;/h2>
-&lt;p>This flappy bird look-a-like is teaching us about the problems of current Parkinson medication and how they might be solved. The real pride of this project on my side, beyond the tight schedule, is the music and SFX that I composed 🙂. The game was developed over a 24 hour preriod!&lt;/p></description></item><item><title>Color Maze</title><link>https://www.dorbendor.com/posts/projects/published/colormaze/</link><pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/colormaze/</guid><description>&lt;center> &lt;i> Swipe! Swipe! Swipe to fill the screen with bright colors! &lt;/i> &lt;/center>
+&lt;p>This flappy bird look-a-like is teaching us about the problems of current Parkinson medication and how they might be solved. The real pride of this project on my side, beyond the tight schedule, is the music and SFX that I composed 🙂. The game was developed over a 24 hour preriod!&lt;/p></description></item><item><title>Color Maze</title><link>https://MisterKidX.github.io/posts/projects/published/colormaze/</link><pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate><guid>https://MisterKidX.github.io/posts/projects/published/colormaze/</guid><description>&lt;center> &lt;i> Swipe! Swipe! Swipe to fill the screen with bright colors! &lt;/i> &lt;/center>
 &lt;div align="center" style="width: 100%">
 &lt;style>
 /* Basic styling for readability */
@@ -169,7 +169,7 @@ background-color: #005f6b;
 &lt;/div>
 &lt;p style="font-size: 36px; text-align: center;">
 &lt;a href="https://play.google.com/store/apps/details?id=games.ouzo.colormaze" class="button-link" target="_blank">Play the Game&lt;/a>
-&lt;/p></description></item><item><title>Yeti Getaway</title><link>https://www.dorbendor.com/posts/projects/published/yeti-getaway/</link><pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate><guid>https://www.dorbendor.com/posts/projects/published/yeti-getaway/</guid><description>&lt;center> &lt;i> Avoid being caught! Swipe your Yeti to avoid obstacles and collect powerups, and don’t forget to eat them apples! &lt;/i> &lt;/center>
+&lt;/p></description></item><item><title>Yeti Getaway</title><link>https://MisterKidX.github.io/posts/projects/published/yeti-getaway/</link><pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate><guid>https://MisterKidX.github.io/posts/projects/published/yeti-getaway/</guid><description>&lt;center> &lt;i> Avoid being caught! Swipe your Yeti to avoid obstacles and collect powerups, and don’t forget to eat them apples! &lt;/i> &lt;/center>
 &lt;div align="center" style="width: 100%">
 &lt;style>
 /* Basic styling for readability */
