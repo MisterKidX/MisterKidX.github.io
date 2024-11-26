@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casual on Dor Ben Dor</title>
+    <link>http://localhost:1313/tags/casual/</link>
+    <description>Recent content in Casual on Dor Ben Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/casual/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Treasure Hunt</title>
+      <link>http://localhost:1313/posts/prototypes/hackathons/treasure-hunt/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/hackathons/treasure-hunt/</guid>
+      <description>&lt;center&gt; &lt;i&gt; 1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.  &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Part of&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Casual&lt;/td&gt;
+    &lt;td&gt;Unity, PlayFab&lt;/td&gt;
+    &lt;td&gt;PC, WebGL&lt;/td&gt;
+    &lt;td&gt;Game Designer, Unity Developer&lt;/td&gt;
+    &lt;td&gt;Completed&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://v3.globalgamejam.org/2021/games/find-treasure-3&#34; target=&#34;_blank&#34;&gt;GGJ 2021&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://misterkidx.itch.io/treasure-hunt&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Neuroderm</title>
+      <link>http://localhost:1313/posts/projects/published/neuroderm/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/neuroderm/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Make your way through obstacles and learn a couple of things while at it! &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Casual&lt;/td&gt;
+    &lt;td&gt;Unity, C#&lt;/td&gt;
+    &lt;td&gt;PC, Touch Screens&lt;/td&gt;
+    &lt;td&gt;Sole Developer&lt;/td&gt;
+    &lt;td&gt;Completed&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://neuroderm.com/&#34; target=&#34;_blank&#34;&gt;Neuroderm&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This flappy bird look-a-like is teaching us about the problems of current Parkinson medication and how they might be solved. The real pride of this project on my side, beyond the tight schedule, is the music and SFX that I composed 🙂. The game was developed over a 24 hour preriod!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Color Maze</title>
+      <link>http://localhost:1313/posts/projects/published/colormaze/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/colormaze/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Swipe! Swipe! Swipe to fill the screen with bright colors! &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Hyper Casual, Puzzle&lt;/td&gt;
+    &lt;td&gt;Mobile (Android &amp; IOS)&lt;/td&gt;
+    &lt;td&gt;Level Designer&lt;/td&gt;
+    &lt;td&gt;Published&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://play.google.com/store/apps/dev?id=6901802119894113806&amp;hl=en-US&amp;pli=1&#34; target=&#34;_blank&#34;&gt;Ouzo (Closed)&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://play.google.com/store/apps/details?id=games.ouzo.colormaze&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yeti Getaway</title>
+      <link>http://localhost:1313/posts/projects/published/yeti-getaway/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/yeti-getaway/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Avoid being caught! Swipe your Yeti to avoid obstacles and collect powerups, and don’t forget to eat them apples! &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Endless Runner, Casual&lt;/td&gt;
+    &lt;td&gt;Facebook Instance Games (FIG), Smart TVs&lt;/td&gt;
+    &lt;td&gt;Game Designer&lt;/td&gt;
+    &lt;td&gt;Published&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://play.works/&#34; target=&#34;_blank&#34;&gt;PLAY.WORKS&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://play.works/news/playworks-launches-yeti-getaway-on-facebook-instant-games-&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;See the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on Dor Ben Dor</title>
+    <link>http://localhost:1313/tags/unity/</link>
+    <description>Recent content in Unity on Dor Ben Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>GaW - Heroes of Might &amp; Magic</title>
+      <link>http://localhost:1313/posts/prototypes/game-a-week/homm/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/game-a-week/homm/</guid>
+      <description>&lt;p&gt;Heroes of Might &amp;amp; Magic III is one of my all time favourite games. It proposes 4 core systesms (heroes, castles, exploration and combat) each feeding each other to create a hollistic and compelling gameplay. Trying to imitate it in one week was both challenging and incredibly fun.&lt;/p&gt;
+&lt;style&gt;
+  .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://misterkidx.itch.io/game-a-week-heroes-of-might-and-magic&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Prototype&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scriptable Holders</title>
+      <link>http://localhost:1313/posts/articles/unity/scriptableholders/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/unity/scriptableholders/</guid>
+      <description>&lt;h3 id=&#34;preface&#34;&gt;Preface&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.unity3d.com/Manual/class-ScriptableObject.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scriptable Objects&lt;/a&gt; (SOs) are awesome. It&amp;rsquo;s been said before, it will be said in the future and currently, many Unity devs use them to architect their code and write great games. But (you knew this was coming), they are still a tight coupling to the unity engine - Scriptable Objects only make sense inside the unity framework. I noticed most Unity devs don&amp;rsquo;t give a f*** about this, but I do give plenty. To avoid my rant about how writing C# in Unity is like driving a Bugatti at 10 MPH on the freeway I&amp;rsquo;ll just say that I like to write &lt;a href=&#34;https://en.wikipedia.org/wiki/Plain_old_CLR_object&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plain Old C# Objects&lt;/a&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=yg8116aeD7E&amp;amp;ab_channel=DisneyMusicVEVO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POCOS&lt;/a&gt;) and that writing code that is not tightly coupled to a specific framework is generally a good thing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Phantom Beasts</title>
+      <link>http://localhost:1313/posts/projects/canceled/phantom-beasts/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/canceled/phantom-beasts/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Unleash your inner beast and shoot your way through a dystopian city in this deadly 2.5D side scroller. Gun down your enemies and use your phantoms to get out of tough situations. &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 80%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+      .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Action, Shooter, 2.5D&lt;/td&gt;
+    &lt;td&gt;Unity, C#, Multiplayer&lt;/td&gt;
+    &lt;td&gt;PC&lt;/td&gt;
+    &lt;td&gt;Lead Developer &amp; Shareholder&lt;/td&gt;
+    &lt;td&gt;Canceled&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://www.phantombeasts.studio/&#34; target=&#34;_blank&#34;&gt;Ready Steady Games&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Summoners Royale</title>
+      <link>http://localhost:1313/posts/projects/published/summoners-royale/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/summoners-royale/</guid>
+      <description>&lt;center&gt; &lt;i&gt; A Real time PvP strategy game for android, empowering players with strategic decisions in lightweight tactical battles. &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Real Time Strategy&lt;/td&gt;
+    &lt;td&gt;Mobile (Android)&lt;/td&gt;
+    &lt;td&gt;Consulting Game Designer &amp; Economist&lt;/td&gt;
+    &lt;td&gt;Published&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://summonersuniverse.com/&#34; target=&#34;_blank&#34;&gt;Supersky&lt;a&gt; (Closed)&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://summoners-royale.en.softonic.com/android&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Treasure Hunt</title>
+      <link>http://localhost:1313/posts/prototypes/hackathons/treasure-hunt/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/hackathons/treasure-hunt/</guid>
+      <description>&lt;center&gt; &lt;i&gt; 1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.  &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Part of&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Casual&lt;/td&gt;
+    &lt;td&gt;Unity, PlayFab&lt;/td&gt;
+    &lt;td&gt;PC, WebGL&lt;/td&gt;
+    &lt;td&gt;Game Designer, Unity Developer&lt;/td&gt;
+    &lt;td&gt;Completed&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://v3.globalgamejam.org/2021/games/find-treasure-3&#34; target=&#34;_blank&#34;&gt;GGJ 2021&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://misterkidx.itch.io/treasure-hunt&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Warriors: Rise To Glory</title>
+      <link>http://localhost:1313/posts/projects/published/warriors-rise-to-glory/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/warriors-rise-to-glory/</guid>
+      <description>&lt;center&gt; &lt;i&gt; In this rogue-lite turn-based RPG, you create a bloodline of gladiators, fight online with or against your friends in the arena, decide the fate of your fallen rivals, and bring honor, wealth, and the spoils of war to improve your legacy. &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2.5D, Rouguelite, Turn-Based, RPG&lt;/td&gt;
+    &lt;td&gt;Unity, PlayFab, Photon, Javascript, C#&lt;/td&gt;
+    &lt;td&gt;PC&lt;/td&gt;
+    &lt;td&gt;Developer&lt;/td&gt;
+    &lt;td&gt;Published&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://store.steampowered.com/developer/GavraGames&#34; target=&#34;_blank&#34;&gt;Gavra Games&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://github.com/users/MisterKidX/projects/2/views/3&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bow &amp; Arrow</title>
+      <link>http://localhost:1313/posts/projects/published/bow-and-arrow/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/bow-and-arrow/</guid>
+      <description>&lt;center&gt; &lt;i&gt; “Hear ye! Hear ye! The king is looking for the best archer in the land! Are you up for a challenge of Bow &amp; Arrow? &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Employer&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Arcade, Puzzle&lt;/td&gt;
+    &lt;td&gt;Unity, C#, SteamVR&lt;/td&gt;
+    &lt;td&gt;VR&lt;/td&gt;
+    &lt;td&gt;Sole Developer &amp; Designer&lt;/td&gt;
+    &lt;td&gt;Sold (Private Buyer)&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://www.kubiyax.com/&#34; target=&#34;_blank&#34;&gt;Kubiyax&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Bow &amp;amp; Arrow is a fairly simple game. As I remember 2017, it was the dawn of VR games. Not that weren&amp;rsquo;t made before, but mechanics and dynamics still haven&amp;rsquo;t been fully explored. Many VR arcades looked for a cutting edge, propietry games that players could play only in that specific arcade. Bow &amp;amp; Arrow was one of those games.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Neuroderm</title>
+      <link>http://localhost:1313/posts/projects/published/neuroderm/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/published/neuroderm/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Make your way through obstacles and learn a couple of things while at it! &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Casual&lt;/td&gt;
+    &lt;td&gt;Unity, C#&lt;/td&gt;
+    &lt;td&gt;PC, Touch Screens&lt;/td&gt;
+    &lt;td&gt;Sole Developer&lt;/td&gt;
+    &lt;td&gt;Completed&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://neuroderm.com/&#34; target=&#34;_blank&#34;&gt;Neuroderm&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This flappy bird look-a-like is teaching us about the problems of current Parkinson medication and how they might be solved. The real pride of this project on my side, beyond the tight schedule, is the music and SFX that I composed 🙂. The game was developed over a 24 hour preriod!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VoX</title>
+      <link>http://localhost:1313/posts/prototypes/exercises/vox/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/exercises/vox/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Race! Race! Race! VoX is a unique VR arcade game where you’ll try to out best yourself and your friends. Collect coins, drift and stay on track! &lt;/i&gt; &lt;/center&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Racing&lt;/td&gt;
+    &lt;td&gt;Unity, SteamVR SDK, Oculus SDK&lt;/td&gt;
+    &lt;td&gt;VR, Oculus&lt;/td&gt;
+    &lt;td&gt;Unity Developer, Gameplay Designer&lt;/td&gt;
+    &lt;td&gt;Completed&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://www.kubiyax.com/&#34; target=&#34;_blank&#34;&gt;Kubiyax&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;If you worked with VR, guess you could spot the challenge here: How do you handle motion sickness and racing in VR? It’s hard, but doable. Wrapping google anti motion sickness SDK with unity scripts while also improving on that SDK proved to be a viable solution. The game was also hosted on the Indie Playground Exhibition sposored by GameIS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Backgammon Live</title>
+      <link>http://localhost:1313/posts/drafts/projects-not-implemented/backgammon-live/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/drafts/projects-not-implemented/backgammon-live/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_piqCBe_biY?autoplay=1&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=1&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

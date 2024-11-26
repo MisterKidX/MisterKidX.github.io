@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototypes on Dor Ben Dor</title>
+    <link>http://localhost:1313/posts/prototypes/</link>
+    <description>Recent content in Prototypes on Dor Ben Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/prototypes/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>GaW - Heroes of Might &amp; Magic</title>
+      <link>http://localhost:1313/posts/prototypes/game-a-week/homm/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/game-a-week/homm/</guid>
+      <description>&lt;p&gt;Heroes of Might &amp;amp; Magic III is one of my all time favourite games. It proposes 4 core systesms (heroes, castles, exploration and combat) each feeding each other to create a hollistic and compelling gameplay. Trying to imitate it in one week was both challenging and incredibly fun.&lt;/p&gt;
+&lt;style&gt;
+  .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://misterkidx.itch.io/game-a-week-heroes-of-might-and-magic&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Prototype&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Game a Week Challenge - Rules</title>
+      <link>http://localhost:1313/posts/prototypes/game-a-week/rules/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/game-a-week/rules/</guid>
+      <description>&lt;h2 id=&#34;what-is-the-game-in-a-week-challenge-&#34;&gt;What is the &amp;ldquo;Game In A Week&amp;rdquo; Challenge? 🕹️&lt;/h2&gt;
+&lt;p&gt;Game in a Week (GaW) is a self-imposed challenge to build a bitching prototype for an existing game (preferably a genre-defining one).
+It’s an undertaking in which I show that quick prototyping is easy,fun, and can yield great results. I hope both you and I will learn a lot along the way.&lt;/p&gt;
+&lt;h2 id=&#34;structure-&#34;&gt;Structure 🛠️&lt;/h2&gt;
+&lt;p&gt;We will start by reverse-designing the game. We&amp;rsquo;ll understand what systems comprise gameplay and what needs to be done in terms of code, tech art, and assets.
+We will also analyze the gameplay, defining interactions, events, and dynamics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Treasure Hunt</title>
+      <link>http://localhost:1313/posts/prototypes/hackathons/treasure-hunt/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/hackathons/treasure-hunt/</guid>
+      <description>&lt;center&gt; &lt;i&gt; 1v1 multiplayer game in which  each player hides his treasure, and tries to find his opponents.  &lt;/i&gt; &lt;/center&gt;
+&lt;div align=&#34;center&#34; style=&#34;width: 100%&#34;&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Part of&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Casual&lt;/td&gt;
+    &lt;td&gt;Unity, PlayFab&lt;/td&gt;
+    &lt;td&gt;PC, WebGL&lt;/td&gt;
+    &lt;td&gt;Game Designer, Unity Developer&lt;/td&gt;
+    &lt;td&gt;Completed&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://v3.globalgamejam.org/2021/games/find-treasure-3&#34; target=&#34;_blank&#34;&gt;GGJ 2021&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size: 36px; text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://misterkidx.itch.io/treasure-hunt&#34; class=&#34;button-link&#34; target=&#34;_blank&#34;&gt;Play the Game&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VoX</title>
+      <link>http://localhost:1313/posts/prototypes/exercises/vox/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prototypes/exercises/vox/</guid>
+      <description>&lt;center&gt; &lt;i&gt; Race! Race! Race! VoX is a unique VR arcade game where you’ll try to out best yourself and your friends. Collect coins, drift and stay on track! &lt;/i&gt; &lt;/center&gt;
+&lt;style&gt;
+    /* Basic styling for readability */
+    table {
+        width: 90%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #add8e6; /* Light blue color */
+        font-weight: bold;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .button-link {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #005f6b;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Genre&lt;/th&gt;
+    &lt;th&gt;Tech Stack&lt;/th&gt;
+    &lt;th&gt;Platform&lt;/th&gt;
+    &lt;th&gt;Role&lt;/th&gt;
+    &lt;th&gt;Status&lt;/th&gt;
+    &lt;th&gt;Client&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Racing&lt;/td&gt;
+    &lt;td&gt;Unity, SteamVR SDK, Oculus SDK&lt;/td&gt;
+    &lt;td&gt;VR, Oculus&lt;/td&gt;
+    &lt;td&gt;Unity Developer, Gameplay Designer&lt;/td&gt;
+    &lt;td&gt;Completed&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://www.kubiyax.com/&#34; target=&#34;_blank&#34;&gt;Kubiyax&lt;a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;If you worked with VR, guess you could spot the challenge here: How do you handle motion sickness and racing in VR? It’s hard, but doable. Wrapping google anti motion sickness SDK with unity scripts while also improving on that SDK proved to be a viable solution. The game was also hosted on the Indie Playground Exhibition sposored by GameIS.&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>
