@@ -78,6 +78,12 @@ categories: ["Game", "Project"]
   </tr>
 </table>
 
+<p style="font-size: 36px; text-align: center;">
+  <a href="https://misterkidx.itch.io/sil-vous-play" class="button-link" target="_blank">Play the Game</a>
+</p>
+
+Use this password to play
+`WatsonWillNotWork`
 <br>
 </div>
 
