@@ -1,6 +1,6 @@
 ---
 title: "The Memory Game - Deep Dive"
-date: 2024-17-11
+date: 2025-01-01
 hero: /images/hero.png
 description: Deeo dive into why this game is perfect for learning good game design
 draft: true
