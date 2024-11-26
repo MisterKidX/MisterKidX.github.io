@@ -86,9 +86,9 @@ categories: ["Game", "Project"]
 ## Three images at the center
 
 <div align="center">
-  <img src="phantom1.png" alt="Phantom Beast Concept Art" style="width: 30%; display: inline-block; margin: 0 auto;" />
-  <img src="phantom2.png" alt="Phantom Beast Concept Art" style="width: 30%; display: inline-block; margin: 0 auto;" />
-  <img src="phantom3.png" alt="Phantom Beast Concept Art" style="width: 30%; display: inline-block; margin: 0 auto;" />
+  <img src="1.png" alt="" style="width: 30%; display: inline-block; margin: 0 auto;" />
+  <img src="2.png" alt="P" style="width: 30%; display: inline-block; margin: 0 auto;" />
+  <img src="3.png" alt="" style="width: 30%; display: inline-block; margin: 0 auto;" />
 </div>
 
 
