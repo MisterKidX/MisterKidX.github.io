@@ -1,11 +1,11 @@
 section:
   name: Clientele
   id: achievements
-  enable: true
+  enable: false
   weight: 20
   showOnNavbar: false
   # Can optionally hide the title in sections
-  hideTitle: false
+  hideTitle: true
 
 # Your achievements achievements
 achievements:
