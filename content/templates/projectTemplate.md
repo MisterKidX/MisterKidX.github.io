@@ -84,7 +84,13 @@ categories: ["Game", "Project"]
 </div>
 
 <p style="font-size: 36px; text-align: center;">
-  <a href="" class="button-link" target="_blank">Play the Game</a>
+  <a href="https://misterkidx.itch.io/my-first-animal" class="button-link button-link-itch" target="_blank">
+  <img src="/images/platforms/itch-io-icon-1024x1024.png" alt="itch.io" style="vertical-align: middle; height: 30px;">
+  Play on Itch</a>
+  <a href="https://play.google.com/store/apps/details?id=YOUR_APP_ID" class="button-link button-link-playstore" target="_blank">
+    <img src="/images/platforms/play-store-icon-512x512.png" alt="play store" style="vertical-align: middle; height: 30px;">
+    Play on Play Store
+  </a>
 </p>
 
 <br>
