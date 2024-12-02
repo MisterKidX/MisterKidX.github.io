@@ -98,10 +98,10 @@ categories: ["Game", "Project"]
 
 ## Overview
 
-descrive the game and the project in more detail
+describe the game and the project in more detail
 
 <div align="center">
-  <img src="pb_timogo.gif" alt="Changing to Timogo"/>
+  <img src="1.png" alt=""/>
 </div>
 
 ## Role
