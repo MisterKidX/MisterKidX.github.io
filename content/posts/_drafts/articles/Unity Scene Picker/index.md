@@ -6,7 +6,7 @@ date: 2024-12-06 # Date of the post, can add time -> T06:00:23+06:00
 hero: banner.gif # the image for the post
 description: template for posts #...
 theme: Toha
-draft: false # signifies if this blog post is still a draft
+draft: true # signifies if this blog post is still a draft
 #if you want to change the default author
 # author:
 #   name: Md.Habibur Rahman
